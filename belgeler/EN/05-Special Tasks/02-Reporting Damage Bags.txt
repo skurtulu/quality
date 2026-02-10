@@ -1,0 +1,2 @@
+We have a link on our weekly Quip list for reporting damage bags. https://console.harmony.a2z.com/amzl-bat-tools/  
+We need and avery scanner for scanning the QR Codes for this task. First we scan the QR code on this link to start scanning damage bags. 1.Select country(DE) -> Select Site(DAH1) -> 2.Select Bags -> 3.Choose a scenario(Damaged) -> 3a.Describe the issue(You must select the right issue for each bags before you scan them) -> 4.Scan your bag with Avery scanner

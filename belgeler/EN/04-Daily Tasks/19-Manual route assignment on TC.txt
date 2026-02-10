@@ -1,0 +1,2 @@
+Sometimes, even if we prioritize tours, the tours we want may not be assigned to SAs in time (especially if most tours are on the same aisles). In such cases, we may need to manually assign tours to SAs. To do this, use Dolphin Device -> Pick -> ... -> Type route code (CA_A114) -> Confirm.
+Most routes are usually in the form of 2 picklists. When manually assigning tours, let's select route codes where one picklist has already been assigned to someone else, so that the SA collects only one picklist instead of the entire route.

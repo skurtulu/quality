@@ -1,0 +1,6 @@
+Sadece POC iseniz, istif torbası yenilemesiyle(stow bag replenishment) ilgili personel panosunda değişiklikler yapabilirsiniz. Bazı kümelerin(cluster) diğerlerinden daha fazla personele ihtiyacı olduğunu düşünüyorsanız, daha etkili bir planlama için SA rozetlerini değiştirebilirsiniz.
+Seçme ve yerleştirme işlemi tamamlandıktan sonra, SA'ların istif torbası yenilemesi için doğru konumda olup olmadığını şahsen kontrol etmemiz gerekiyor. Bu süreçte SA'ların performansını dijital olarak izleyemediğimiz için, sürekli hareket ederek hepsini kendimiz kontrol etmeliyiz.
+Tüm boş torbalar fiziksel olarak raflara yerleştirildikten sonra, SA'lar torbaları konumlara eşleştirmeye (tarama) başlayabilir. SCC -> Sırala (sort)-> İstif (stow)-> İstif Dağılımı (stow breakdown)-> Eksik (Fehlt) bölümü tüm koridorlar için 0 olmalıdır.
+1 gördüğünüzde, koridora tıklayın, koridordaki tüm konumları gösterecektir. Açık (Offen) bölümünü kontrol edin, bir konum hariç tümü 1 olacaktır, o konum 0 olacaktır. Mümkünse birini gönderip o konuma bir çanta ekleyin. Eğer o konum için QR kodu hasarlı veya eksikse, yeni bir QR kodu oluşturmanız gerekir.
+
+*Çanta yenileme işlemi tamamlandığında Earlies Magdeburg sohbetine ekran görüntüsü göndermelisiniz. Tarih ve gün kısmını da eklediğinizden emin olun.

@@ -1,0 +1,2 @@
+Hasarlı poşetleri bildirmek için haftalık Quip listemizde bir bağlantı var: https://console.harmony.a2z.com/amzl-bat-tools/
+Bu işlem için QR kodlarını taramak üzere bir Avery tarayıcıya ihtiyacımız var. Öncelikle hasarlı poşetleri taramaya başlamak için bu bağlantıdaki QR kodunu tarıyoruz. 1. Ülke seçin (DE) -> Site seçin (DAH1) -> 2. Poşetleri seçin -> 3. Bir senaryo seçin (Hasarlı) -> 3a. Sorunu açıklayın (Her poşeti taramadan önce doğru sorunu seçmelisiniz) -> 4. Poşetinizi Avery tarayıcı ile tarayın

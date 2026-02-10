@@ -1,0 +1,17 @@
+The POC (Point of Contact) is the most experienced member of the quality team, responsible for ensuring that everyone on the team is working correctly and effectively. They are responsible for coordinating their team while also performing key quality tasks.
+*POC Tasks
+- Monitoring Pick&Stage
+- Taking people in/out of Pick for some other tasks according to Pick speed
+- Monitoring empty staging locations and carts
+- Prioritizing routes when it is necessary
+- Monitoring stow bag replenishment
+- SA tracking on FCLM during all shift
+- Spill kit check
+- Checking SAs to address if they are out of any process
+- Checking all SAs at the beginning and during stow bag replenishment process (if they are at the right location or not)
+- Planning and coordinating with ambassadors about first 3 day’s training when there are new hires
+- Dolphin verification
+- Informing supervisors via Chime
+- Making empty Quip list for every week
+-Planning and managing the weekly Dragonfly reports
+-Ensuring that everyone on the Quality team is working effectively and correctly

@@ -1,0 +1,14 @@
+Captains are quality team members responsible for performing shopfloor quality tasks that fall outside the scope of POC and Yard Quality's responsibilities.
+*Captain Tasks
+- Finding packages that cancelled by customers before and during Pick & Stage process     
+- Quick fix with tape gun
+- Handling double stages
+- Handling pick missing
+- Finding and retraining people who makes mistakes during any process (except yard processes)
+- Leftovers check
+- Creating new location QR codes for missing ones
+- Performance list
+- Playing music
+- Finding carts with mistakenly stacked items, giving feedback to the responsible people and ensuring that they learned the correct way
+- Reporting damage bags
+-Cleaning spillages during pick and securing the effected area

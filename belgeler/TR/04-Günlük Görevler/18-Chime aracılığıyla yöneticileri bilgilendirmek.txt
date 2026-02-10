@@ -1,0 +1,13 @@
+Şu durumlarda amirleri Chime üzerinden bilgilendirmeliyiz:
+
+*Bir dalga tamamen toplanıp hazırlandığında,
+*Bir işlemden bazı kişileri çıkardığınızda,
+*Rotaları önceliklendirdiğinizde,
+*Çift aşamalı rotaları veya diğer arabaları kenara yerleştirdiğinizde,
+*Her dalgadan gelen rotaların yola çıkıp çıkmadığını kontrol ettikten sonra (Depo Kalitesi),
+*Eksik bir araba olduğunda,
+*Reddedilen paketler işlemden başarıyla çıkarıldığında veya çıkarılamadığında,
+*Tüm rotalar toplanıp hazırlandığında,
+*Artıklar kontrolünden sonra,
+*B2FC ve atılan paketler hakkında (Yard Kalitesi),
+*İstif torbası yenilemesi tamamlandığında

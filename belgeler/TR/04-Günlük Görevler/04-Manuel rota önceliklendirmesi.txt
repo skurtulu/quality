@@ -1,0 +1,9 @@
+Rotalar bir önceki dalga tamamlanmadan bir sonraki dalgaya atladığında ve önceki dalganın rotalarını zamanında tamamlamak için yeterli zamanımız olmadığında; henüz atanmamış olan önceki dalgadaki rotalara öncelik vermeliyiz.
+
+*Rotalar neden atlıyor? Çünkü aşırı kalabalık. Rotalar çoğunlukla aynı koridorlardaysa; algoritma, koridorlarda aşırı kalabalığı önlemek için öncelikleri 1 numara olmasa bile diğer rotaları atar.
+
+Bu durumlarda; SCC -> Outbound -> Pick -> Picklist Status -> Devam Ediyor ve Atanmamış'ı Seç (Not assigned + in progress)-> Zamana göre toplanma durumunu seç (Stage by time) -> Hedef dalganızı seçin (örn: 10:10)
+Şimdi, koridorlarını kontrol ederek rotalara öncelik vermeli ve önce atanmamış olanları seçmelisiniz. Her seçim listesinde sağdaki üç nokta sembolüne gidin -> tıklayın -> önceliklendirin (Prioritize) -> 1 numarayı seçin
+**Manuel rota önceliklendirmesi, başka seçeneğiniz olmadığı için kasıtlı olarak aşırı kalabalığa neden olmak anlamına gelir. Bu nedenle, bunu yalnızca mevcut dalganın rotaları tehlikede olduğunda yaparız. Gereksiz yere rotaları önceliklendirmek sorunlara yol açacaktır.
+
+***Önceliklendirilmesi gereken çok fazla rota olduğunda, hepsini aynı anda önceliklendirmekten kaçınmalısınız. Bu, aşırı kalabalığa ve insanların istediğinizden daha fazla yavaşlamasına neden olacaktır. Bu nedenle, her dalga için seçim başlamadan önce dalgalar içindeki aynı koridorlardaki rota yoğunluğunu kontrol etmek çok önemlidir. Bunu fark ettikten sonra, kademeli olarak önceliklendirmeye başlayabiliriz.
