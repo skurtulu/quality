@@ -1,0 +1,8 @@
+Wenn Routen von einer Welle zur nächsten springen, bevor die vorherige abgeschlossen ist, und wir nicht genügend Zeit haben, die Routen der vorherigen Welle rechtzeitig abzuschließen, müssen wir die noch nicht zugewiesenen Routen der vorherigen Welle priorisieren.
+
+*Warum springen Routen? Wegen Überbelegung. Befinden sich Routen größtenteils in denselben Gängen, weist der Algorithmus die anderen Routen zu, auch wenn deren Priorität nicht 1 ist, um eine Überbelegung der Gänge zu vermeiden.
+
+In diesen Fällen gehen Sie zu SCC -> Warenausgang -> Auswahl  -> Auswahllistenstatus -> „In Bearbeitung und nicht zugewiesen“ auswählen -> „Phase nach Zeit auswählen“ -> Zielwelle auswählen. Nun müssen Sie die Routen priorisieren, indem Sie deren Gänge überprüfen und zuerst die noch nicht zugewiesenen Routen auswählen. Klicken Sie dazu auf das Endpunktsymbol rechts neben jeder Auswahlliste -> priorisieren Sie -> wählen Sie Nummer 1.
+**Manuelle Routenpriorisierung bedeutet, absichtlich Überbelegung zu verursachen, da keine andere Möglichkeit besteht. Daher führen wir diese Maßnahme nur durch, wenn die Routen der aktuellen Welle gefährdet sind. Wenn Sie Routen priorisieren, obwohl es nicht nötig ist, führt das zu Problemen.
+
+***Bei einer großen Anzahl zu priorisierender Routen sollten Sie unbedingt vermeiden, alle gleichzeitig zu priorisieren. Das führt zu Überfüllung und unnötigen Verzögerungen. Daher ist es entscheidend, die Routendichte in den jeweiligen Gängen innerhalb der einzelnen Wellen vor Beginn jeder Welle zu überprüfen. Sobald wir dies festgestellt haben, können wir die Priorisierung schrittweise vornehmen.

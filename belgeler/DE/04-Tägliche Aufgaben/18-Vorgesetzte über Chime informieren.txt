@@ -1,0 +1,22 @@
+Wir müssen die Vorgesetzten über Chime informieren:
+
+*wenn eine Welle vollständig ausgewählt und bereitgestellt ist,
+
+wenn Mitarbeiter aus einem Prozess entfernt werden,
+
+wenn Routen priorisiert werden,
+
+wenn doppelt bereitgestellte Routen oder andere Wagen in die Warteschlange gestellt werden,
+
+nachdem die Routen jeder Welle auf ihren Abflug überprüft wurden (Qualitätssicherung),
+
+wenn ein Wagen fehlt,
+
+wenn abgelehnte Pakete erfolgreich aus dem Prozess entfernt wurden oder dies nicht möglich war,
+
+wenn alle Routen ausgewählt und bereitgestellt sind,
+
+nach der Überprüfung der Restbestände,
+
+über B2FC- und entsorgte Pakete (Qualitätssicherung),
+*wenn die Auffüllung der Taschen abgeschlossen ist.

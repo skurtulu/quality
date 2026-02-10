@@ -1,0 +1,14 @@
+Sie müssen Mitarbeiter aus dem Auswahlteam entfernen/einbeziehen, wenn die Kommissionierung zu schnell oder zu langsam abläuft.
+Berechnung:
+
+- Überprüfen Sie die Anzahl der aktiven Auswahler unter SCC -> Mitarbeiter -> Auswahl.
+
+- Überprüfen Sie die durchschnittliche Routendauer unter SCC -> Warenausgang -> Auswahl -> Durchschnittliche Dauer (Route/Auswahlliste).
+
+- Beispiel: Sie haben 15 Mitarbeiter im Auswahlteam. Die durchschnittliche Routendauer (nicht Auswahlliste) beträgt ca. 10 Minuten. Der Abstand zwischen zwei wellen beträgt 20 Minuten. Wenn ein Mitarbeiter eine Route in 10 Minuten auswählen kann, schafft er in 20 Minuten zwei Routen. Bei 15 Mitarbeitern im Auswahlteam bedeutet das, dass sie in 20 Minuten 30 Routen auswählen (bis zur nächsten Welle). Wenn in einer Welle 34 Routen bis zur nächsten Welle gepickt werden müssen, benötigen Sie zwei weitere Mitarbeiter, um diese Auswahl vier Routen in 20 Minuten zu auswählen. Sie können jemanden zur Unterstützung der Auswahl abstellen, wenn dessen Aufgabe weniger wichtig ist als die Auswahl. Alternativ können Sie andere Mitarbeiter der Qualitätssicherung einsetzen oder jemanden vom Lager abziehen (falls fünf Personen anwesend sind). Reicht dies nicht aus, informieren Sie die Vorgesetzten und die Unterstützung des Auswahls, damit diese der Auswahl überwachen können.
+
+Dasselbe gilt, wenn viele Mitarbeiter anwesend sind und  zu schnell vonstatten geht. Sie können Mitarbeiter für zusätzliche Aufgaben (z. B. Installationen für Waschräume, Bearbeitung beschädigter Säcke) von der Auswahl abziehen. Auch das Auffüllen von Stausäcken kann hilfreich sein.
+
+*Bei der Abberufung von Mitarbeitern aus der Auswahl sollten MCO-Mitarbeiter Vorrang haben, gefolgt von Alter und Betriebszugehörigkeit. Sie sollten jedoch nicht immer dieselben Personen auswählen.
+
+** Um fair zu sein, bevorzuge ich bei der Auswahl der Mitarbeiter für das Auffüllen von Stausäcken die MCO-Mitarbeiter, die an diesem Morgen die verstauen durchgeführt und ihre beste Leistung erbracht haben. SCC -> Mitarbeiter -> Einlagerung -> Zyklus 1 -> Klicken Sie zweimal auf Pakete -> Scrollen Sie nach unten, um die MCO-Mitarbeiter anzuzeigen.

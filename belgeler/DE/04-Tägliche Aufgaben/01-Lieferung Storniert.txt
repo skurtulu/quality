@@ -1,0 +1,7 @@
+Station Command Center (SCC) -> Paketübersicht -> RTS -> Lieferung storniert -> (Auf die Nummer klicken) -> Ansichtsoptionen anklicken -> Alle Häkchen entfernen -> Sortierzonen auswählen -> Nur Pakete mit Sortierzone suchen (nicht die DAH1-Pakete) -> Auf die Paketnummer klicken Zur Sortierzone gehen und das Paket im Beutel suchen (einfacher, wenn Sie die Paketabmessungen überprüfen und nur nach den letzten 4 Ziffern der Sendungsverfolgungsnummer suchen) Auf Ihrem TC zu Empfang gehen, sobald Sie das Paket gefunden haben Erste Empfangsoption auswählen Paket scannen
+
+- Zum Schluss legen Sie das Paket in die orangefarbenen Beutelständer neben der gelben Säule am Rand.
+
+*Bei hochwertigen Paketen verstauen Sie diese direkt nach dem Empfang im B2FC-Container im PS-Käfig. Wählen Sie dazu auf Ihrem Dolphin-Gerät die Option „Verstauen“ und anschließend „Pakete verstauen“. Der B2FC-Standort wird Ihnen angezeigt. Legen Sie das Paket ordnungsgemäß in den Container und scannen Sie den B2FC-Standort.
+
+** An Tagen mit unzureichender Kommissioniergeschwindigkeit haben zurückgewiesene Pakete keine hohe Priorität. Die Mitarbeiter müssen sie ohnehin zurückbringen. Wenn wir mit so vielen Problemen gleichzeitig konfrontiert sind, müssen wir unsere Aufgaben nach ihrer Dringlichkeit priorisieren.

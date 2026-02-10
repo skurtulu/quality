@@ -1,0 +1,2 @@
+Manchmal werden die gewünschten Touren trotz Priorisierung nicht rechtzeitig den Mitarbeitern zugewiesen (insbesondere, wenn sich die meisten Touren im selben Gang befinden). In solchen Fällen müssen wir die Touren manuell zuweisen. Gehen Sie dazu wie folgt vor: Dolphin-Gerät → Auswahl → ... → Routencode eingeben (CA_A114) → Bestätigen. Die meisten Routen bestehen aus zwei Auswahllisten. Wählen Sie bei der manuellen Zuweisung Routencodes aus, bei denen bereits eine Auswahlliste zugewiesen ist, sodass der Mitarbeiter nur eine Auswahlliste anstatt der gesamten Route abholt.
+
