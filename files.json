@@ -1,5 +1,5 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.2",
     "files": [
         "belgeler/DE/01-Qualität in der Frühschicht/Stellen in der Frühschicht.txt",
         "belgeler/DE/02-Abkürzungen/Abkürzungen.txt",
@@ -110,4 +110,5 @@
         "belgeler/TR/08-İpuçları/Zorunlu olmayan ama güzel hareketler.txt",
         "belgeler/TR/anasayfa.txt"
     ]
+
 }
