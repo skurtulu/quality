@@ -1,0 +1,10 @@
+Station Command Center -> https://logistics.amazon.co.uk/station/dashboard/outboundAMZL
+Quip -> https://quip-amazon.com
+Chime -> https://app.chime.aws/
+Slack -> https://amazon.enterprise.slack.com/
+FCLM Tracking Kiosk -> https://fcmenu-dub-regionalized.corp.amazon.com/DAH1/laborTrackingKiosk
+Austin -> https://eu.ehs-amazon.com/home
+STEM -> https://stem-eu.corp.amazon.com/node/DAH1/equipment
+EagleEye -> eagleeye.amazon.dev
+QR Code Generator -> https://www.qrcode-generator.de/
+AMZL EU BAT -> https://console.harmony.a2z.com/amzl-bat-tools/
