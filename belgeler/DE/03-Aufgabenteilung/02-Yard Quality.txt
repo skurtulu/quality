@@ -1,9 +1,7 @@
 # YARD QUALITY
 [GÖRSEL: yardqual.jpg, 300x200, orta]
 Die Yard Quality ist zuständig für die Bearbeitung von Problemen mit Paketen aus dem Yard, das Umpacken von Paketen, die Überwachung der Bereitstellungsorte und die Rückmeldung an die Vorgesetzten zum Abfertigungsprozess.
-
 *Aufgaben der Yard Quality:
-
 - Umpacken, Schadensbearbeitung
 - Umgang mit Gefahrgut
 - Überprüfung der Paketmenge und Ablehnung durch den Fahrer
@@ -11,5 +9,4 @@ Die Yard Quality ist zuständig für die Bearbeitung von Problemen mit Paketen a
 - Überprüfung nicht abgefahrener Routen nach jeder Welle
 - Überprüfung und Meldung von falsch geparkten Wagen durch die Fahrer in Quip
 - Auffüllen der Kartonständer an der Umpackstation
-
 [GÖRSEL: repackyard.jpg, 300x200, orta]
