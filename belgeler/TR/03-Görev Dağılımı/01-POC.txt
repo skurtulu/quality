@@ -1,9 +1,7 @@
 # POC
 [GÖRSEL: poc.jpg, 300x200, orta]
 İletişim Noktası (POC), kalite ekibinin en deneyimli üyesidir ve ekipteki herkesin doğru ve etkili bir şekilde çalıştığından emin olmaktan sorumludur. Ekibini koordine etmekten ve aynı zamanda önemli kalite görevlerini yerine getirmekten sorumludur.
-
 *Görevleri
-
 - Toplama ve Hazırlama İşlemlerinin İzlenmesi
 - Toplama hızına göre bazı diğer görevler için insanları toplama alanına alma/çıkarma
 - Boş hazırlık alanlarının ve sepetlerin izlenmesi
@@ -19,5 +17,4 @@
 - Her hafta için boş Quip listesi oluşturma
 - Haftalık Dragonfly raporlarının planlanması ve yönetimi
 - Kalite ekibindeki herkesin etkili ve doğru bir şekilde çalıştığından emin olma
-
 [GÖRSEL: cow.jpg, 300x200, orta]
