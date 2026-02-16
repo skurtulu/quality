@@ -1,8 +1,0 @@
-Nur als POC können Sie Änderungen an der Personalplanung bezüglich der Nachfüllung der Lagersäcke vornehmen. Falls Sie der Meinung sind, dass einige Bereiche mehr Personal benötigen als andere, können Sie die Ausweise der Lagerhelfer austauschen, um die Planung zu optimieren.
-Nach Abschluss der Auswahl und Bereitstellung müssen wir persönlich überprüfen, ob sich die Lagerhelfer für die Nachfüllung der Lagersäcke an der richtigen Position befinden. Da wir die Leistung der Lagerhelfer während dieses Prozesses nicht digital überwachen können, müssen wir sie alle ständig persönlich kontrollieren und uns dabei kontinuierlich bewegen.
-Sobald alle leeren Säcke physisch in den Regalen platziert sind, können die Lagerhelfer mit dem Scannen und Zuordnen der Säcke zu den Lagerplätzen beginnen. Der Bereich „SCC“ → „Sortieren“ → „Einlagern“ → „Lagerplatzaufschlüsselung“ → „Fehlt“ muss für alle Gänge den Wert 0 haben.
-
-Sobald Sie den Wert 1 sehen, klicken Sie auf den Gang. Daraufhin werden Ihnen alle Lagerplätze in diesem Gang angezeigt. Überprüfen Sie den Bereich „Offen“. Alle Lagerplätze sollten den Wert 1 haben, außer einem. An diesem einen Lagerplatz ist der Wert 0. Schicken Sie einen Mitarbeiter, um diesen Lagerplatz zu überprüfen und gegebenenfalls einen Sack zuzuordnen. Falls der QR-Code für diesen Standort beschädigt ist oder fehlt, müssen Sie einen neuen QR-Code erstellen.
-
-*Senden Sie bitte einen Screenshot an den Chat von Earlies in Magdeburg, sobald die Auffüllung Ihres Taschen abgeschlossen ist. Vergessen Sie nicht, Datum und Wochentag anzugeben.
-

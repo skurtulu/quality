@@ -1,4 +1,0 @@
-96 adet sepet park etme yerimiz/hazırlık noktamız ve ek olarak kenarda (sideline) 4 adet yerimiz var. Toplama işlemi (pick) çok hızlı olduğunda, sürücüler (DA'lar) gelmeden önce rotaları hazırlamak için yeterli hazırlık noktamız olmayacak ve ürünler kamyonetlerine yüklenerek sepetler tekrar boşalacaktır. Bunu önlemek için boş sepet ve boş park yeri stoklarımızı kontrol etmeliyiz. Yeterli stokumuz yoksa, toplama işleminden personeli çıkarmalıyız.
-Her ikisini de kontrol etmeliyiz çünkü bazen birçok boş hazırlık noktamız olmasına rağmen boş sepet sıkıntısı yaşayabiliyoruz. Bu, yüksek hacimli (yüksek SPR) rotalarımız olduğunda ve bu nedenle bir rota için çoğunlukla 3 veya 4 sepet kullandığımızda olur. Normalde bir rota için çoğunlukla 2 sepet kullanıyoruz. Bu durumda da personeli durdurmalıyız.
-
-*Bu, toplama işlemini izlerken de önemlidir, çünkü ne kadar hızlı olmak istersek isteyelim, kararımızı mevcut park yeri noktalarına ve sepet koşullarına göre vermeliyiz.

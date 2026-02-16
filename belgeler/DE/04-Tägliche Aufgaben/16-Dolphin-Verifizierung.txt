@@ -1,1 +1,0 @@
-Sie können einen Zugangs-QR-Code für Personen mit speziellen Positionen (Problemlösung/Wareneingang) generieren, die diesen mit ihren TCs scannen müssen, sofern Ihr Vorgesetzter Ihnen die entsprechende Berechtigung erteilt hat. SCC -> Arbeitsrecht -> Dolphin-Verifizierung -> geben Sie die Anmeldedaten der SAs ein.

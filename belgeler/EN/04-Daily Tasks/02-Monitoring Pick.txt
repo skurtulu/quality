@@ -1,8 +1,0 @@
-You must take people out/in of pick when pick is; too fast or too slow.
-How to calculate; 
--Check the active picker headcount by SCC -> Associate -> Pick
--Check the average “route” duration on SCC -> Outbound -> Pick -> Average Duration (Route/Picklist)
--For example: You have 15 people in Pick, and their duration for a route (not for a picklist) is roughly 10 minutes. And the time between two waves is 20 minutes. So, if one person can complete 1 route’s pick in 10 minutes; he/she will pick 2 routes in 20 minutes. If you have 15 people in pick, that means they will pick 30 routes in 20 minutes (until the next wave’s arriving). If you have 34 routes in one wave that need to pick until next wave, you will need 2 more average person to pick those 4 routes in 20 minutes. You can send someone to support pick if they have a less important task then pick, you can send other Quality members or you can take someone out from Yard (if there are 5 person). If it is still not enough you can inform supervisors and support pick so they can monitor pick. 
-Same calculation is applicable when you have so many people and pick is too fast. You can take people out of pick for some extra tasks (installments for washrooms, damage bags handling etc.) You can take people out also for stow bag replenishment. 
-*When you take people out of pick; MCO people should be your priority, then age and tenure; but also you shouldn’t choose always the same people.
-** When deciding which people to take out of pick for stow bag replenishment, in order to be fair, I prefer the MCO employees who stow that morning and performed at their best. SCC -> Assosiate -> Stow -> Cycle 1 -> Click on Pakete ges. 2 times -> Go down to see MCO people

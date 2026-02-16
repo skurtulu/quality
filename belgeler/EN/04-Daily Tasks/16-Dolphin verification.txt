@@ -1,1 +1,0 @@
-You can generate an access QR code for people who have special positions (Problem Solve/Receive) to scan with their TCs, if your manager gave you access for this. SCC -> Labor -> Dolphin Verification -> type the login of the SAs

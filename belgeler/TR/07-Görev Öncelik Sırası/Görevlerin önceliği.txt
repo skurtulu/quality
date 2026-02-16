@@ -1,4 +1,0 @@
-Bazen aynı anda birçok sorunla karşılaşıyoruz. Bu gibi durumlarda, yüksek öncelikli görevlere öncelik vermek ve diğerlerine zamanımız yoksa daha önemli olanları önce halletmek daha mantıklıdır. Deneyimlerime göre görevlerin önem sırası şöyledir:
-Ulaşılabilir olmak (telsiz taşımak, zil sesini kontrol etmek) -> Dökülme olan alanları temizlemek ve güvenliğini sağlamak -> Toplama işlemini izlemek (+Önceliklendirme) -> Kayıp arabalar -> Kayıp poşetler -> Yeniden eğitim -> Yeniden paketleme -> Çift aşamalı paketleme (doublestage) -> Artık kontrolü -> Kayıp OV'ler -> Reddedilenler -> FCLM Takibi -> Quip'te Kontrol Listesini Doldurma.
-
-*Son dört görev, zaman tükendiğinde göz ardı edilebilir, ancak yalnızca gerçekten zorlu zamanlarda.

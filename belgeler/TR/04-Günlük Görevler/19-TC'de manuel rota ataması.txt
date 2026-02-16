@@ -1,2 +1,0 @@
-Bazen, turları önceliklendirsek bile, istediğimiz turlar zamanında SA'lara atanmayabilir (özellikle çoğu tur aynı koridorlardaysa). Bu gibi durumlarda, turları SA'lara manuel olarak atamamız gerekebilir. Bunu yapmak için Dolphin Cihazı -> Seç -> İkinci seçenek -> Rota kodunu (CA_A114) yazın -> Onaylayın.
-Çoğu rota genellikle 2 seçim listesi şeklinde olur. Turları manuel olarak atarken, SA'nın tüm rota yerine yalnızca bir seçim listesini toplaması için, bir seçim listesinin zaten başka birine atanmış olduğu rota kodlarını seçelim.
