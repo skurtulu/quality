@@ -1,0 +1,5 @@
+# EKSIK OLANLAR IÇIN YENI KONUM QR KODLARI OLUŞTURMA
+[GÖRSEL: missingqr.jpg, 300x300, orta]
+Zebra 620 yazıcınızı, yazıcının kendi USB kablosunu kullanarak bilgisayarınıza bağlayın -> SzPrinter adlı Excel elektronik tablosunu açın -> Eksik QR kodlarını elektronik tabloya girin -> Etiket Oluştur'a tıklayın -> 300 dpi'yi seçin -> Bilgisayarınızın arama çubuğuna "yazıcılar ve tarayıcılar" yazın -> ZDesigner ZD620-300dpi ZPL'ye tıklayın -> Yazıcı özellikleri -> Sürücü ayarları -> Ayarlar -> Dosya gönder'in yanındaki üç noktaya tıklayın ve ilk seçeneği, oluşturulan QR kod dosyasını seçin -> Gönder'e tıklayın
+[GÖRSEL: missingqr2.jpg, 300x300, orta]
+[GÖRSEL: qrcodeprint.jpg, 500x400, orta]
