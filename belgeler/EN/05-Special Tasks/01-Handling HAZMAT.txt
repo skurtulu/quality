@@ -1,6 +1,6 @@
 # HANDLING HAZMAT
 [GÖRSEL: hazmat.jpg, 300x300, orta]
 https://eu.ehs-amazon.com/waste-and-donations/search 
-
 You can find this page in Austin->Waste and Donations. You must go in the HAZMAT cage with the correct PPE, hazmat package and your laptop. You must scan the package ID or ASIN. Then you must follow the steps that the system will show you.
+
 
