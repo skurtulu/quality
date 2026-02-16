@@ -7,5 +7,5 @@ Austin -> https://eu.ehs-amazon.com/home
 STEM -> https://stem-eu.corp.amazon.com/node/DAH1/equipment
 EagleEye -> https://eagleeye.amazon.dev
 QR Code Generator -> https://www.qrcode-generator.de/
-
 AMZL EU BAT -> https://console.harmony.a2z.com/amzl-bat-tools/
+
