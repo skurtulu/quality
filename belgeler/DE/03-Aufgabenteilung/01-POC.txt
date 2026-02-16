@@ -1,7 +1,6 @@
 # POC
 [GÖRSEL: poc.jpg, 300x200, orta]
 Der Ansprechpartner (Point of Contact, POC) ist das erfahrenste Mitglied des Qualitätsteams und dafür verantwortlich, dass alle Teammitglieder korrekt und effektiv arbeiten. Er koordiniert sein Team und führt gleichzeitig wichtige Aufgaben im Bereich Qualitätssicherung durch.
-
 *POC-Aufgaben
 - Auswahl & Bereitstellung überwachen
 - Mitarbeiter je nach Auswahlgeschwindigkeit in den Bereich Auswahl & Bereitstellung ein- und ausleiten
@@ -18,5 +17,4 @@ Der Ansprechpartner (Point of Contact, POC) ist das erfahrenste Mitglied des Qua
 - Wöchentlich eine Liste leerer Quip-Artikel erstellen
 - Wöchentliche Dragonfly-Berichte planen und verwalten
 - Sicherstellen, dass alle Mitglieder des Qualitätsteams effektiv und korrekt arbeiten
-
 [GÖRSEL: cow.jpg, 300x200, orta]
