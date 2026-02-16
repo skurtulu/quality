@@ -10,6 +10,5 @@ Station Command Center (SCC) -> Paketübersicht -> RTS -> Lieferung storniert ->
 - Zum Schluss legen Sie das Paket in die orangefarbenen Beutelständer neben der gelben Säule am Rand.
 [GÖRSEL: exclamation.jpg, 30x30, sol]
 Bei hochwertigen Paketen verstauen Sie diese direkt nach dem Empfang im B2FC-Container im PS-Käfig. Wählen Sie dazu auf Ihrem Dolphin-Gerät die Option „Verstauen“ und anschließend „Pakete verstauen“. Der B2FC-Standort wird Ihnen angezeigt. Legen Sie das Paket ordnungsgemäß in den Container und scannen Sie den B2FC-Standort.
-
 [GÖRSEL: exclamation.jpg, 30x30, sol]
 An Tagen mit unzureichender Auswahlgeschwindigkeit haben zurückgewiesene Pakete keine hohe Priorität. Die Mitarbeiter müssen sie ohnehin zurückbringen. Wenn wir mit so vielen Problemen gleichzeitig konfrontiert sind, müssen wir unsere Aufgaben nach ihrer Dringlichkeit priorisieren.
