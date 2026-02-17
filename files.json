@@ -71,6 +71,7 @@
         "EN/06-Atlas/Atlas.txt",
         "EN/07-Priority of tasks/Priority of tasks.txt",
         "EN/08-TIPS/Not mandatory but nice MOVES.txt",
+        "EN/09-Links/Links.txt",
         "EN/anasayfa.txt",
         "TR/01-Gündüz Vard. Kalite Pozisyonları/Gündüz Vardiyasında Kalite Pozisyonları.txt",
         "TR/02-Kısaltmalar/Kısaltmalar.txt",
@@ -106,7 +107,9 @@
         "TR/06-Atlas/Atlas.txt",
         "TR/07-Görev Öncelik Sırası/Görevlerin önceliği.txt",
         "TR/08-İpuçları/Zorunlu olmayan ama güzel hareketler.txt",
+        "TR/09-/Links.txt",
         "TR/anasayfa.txt"
     ]
 
 }
+
