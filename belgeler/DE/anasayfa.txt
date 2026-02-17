@@ -1,2 +1,3 @@
-[GÖRSEL: amazonkıs.png, 600x700]
+[GÖRSEL: amazonkis.png, 600x700]
+
 
