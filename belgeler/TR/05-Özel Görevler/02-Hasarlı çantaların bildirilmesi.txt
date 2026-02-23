@@ -7,7 +7,7 @@ Bu işlem için QR kodlarını taramak üzere bir Avery tarayıcıya ihtiyacım�
 -> 3. Bir senaryo seçin (Hasarlı) 
 -> 3a. Sorunu açıklayın (Her poşeti taramadan önce doğru sorunu seçmelisiniz) 
 -> 4. Poşetinizi Avery tarayıcı ile tarayın
-[GÖRSEL: exclamation.jpg, 150x150, sol]
+[GÖRSEL: exclamation.jpg, 30x30, sol]
 Hasarlı olup olmadıklarına nasıl karar verilir?
 -> Fermuarlardan biri bozuksa,
 -> Üç QR kodundan ikisi bozuksa,
@@ -15,5 +15,6 @@ Hasarlı olup olmadıklarına nasıl karar verilir?
 -> İç veya dış hasarı varsa,
 -> Büyük bir yırtığı varsa,
 o zaman bunları Kırmızı Etiket Alanının yakınında bulunan hasarlı çantalar sepetine koyabiliriz.
+
 
 
