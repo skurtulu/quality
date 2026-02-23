@@ -7,7 +7,7 @@ We need and avery scanner for scanning the QR Codes for this task. First we scan
 -> 3.Choose a scenario(Damaged) 
 -> 3a.Describe the issue(You must select the right issue for each bags before you scan them) 
 -> 4.Scan your bag with Avery scanner
-[GÖRSEL: exclamation.jpg, 150x150, sol]
+[GÖRSEL: exclamation.jpg, 30x30, sol]
 How to decide whether they are damaged or not?
 -> If one of the zippers is broken,
 -> If two of the QR codes broken out of three,
@@ -15,3 +15,4 @@ How to decide whether they are damaged or not?
 -> If it has an internal or external damage,
 -> If it has a major tear,
 then we can place them in the damage bags cart, which stays near the Red Tag Area.
+
