@@ -6,7 +6,7 @@ In unserer wöchentlichen Quip-Liste finden Sie einen Link zum Melden beschädig
 → 3. Szenario auswählen (Beschädigt)
 → 3a. Problem beschreiben (Sie müssen für jede Tasche das richtige Problem auswählen, bevor Sie sie scannen) 
 → 4. Tasche mit dem Avery-Scanner scannen
-[GÖRSEL: exclamation.jpg, 150x150, sol] 
+[GÖRSEL: exclamation.jpg, 30x30, sol] 
 Wie entscheidet man, ob eine Tasche beschädigt ist?
 -> Wenn einer der Reißverschlüsse kaputt ist,
 -> Wenn zwei von drei QR-Codes beschädigt sind,
@@ -14,3 +14,4 @@ Wie entscheidet man, ob eine Tasche beschädigt ist?
 -> Wenn sie innen oder außen beschädigt ist,
 -> Wenn sie einen größeren Riss hat,
 dann können wir sie in den Wagen für beschädigte Taschen legen, der sich in der Nähe des Bereichs mit den roten Etiketten befindet.
+
