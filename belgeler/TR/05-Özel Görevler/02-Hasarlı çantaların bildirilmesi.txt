@@ -1,4 +1,19 @@
 # HASARLI ÇANTALARIN BILDIRILMESI
 [GÖRSEL: damagebags.jpg, 300x300, orta]
 Hasarlı poşetleri bildirmek için haftalık Quip listemizde bir bağlantı var: https://console.harmony.a2z.com/amzl-bat-tools/
-Bu işlem için QR kodlarını taramak üzere bir Avery tarayıcıya ihtiyacımız var. Öncelikle hasarlı poşetleri taramaya başlamak için bu bağlantıdaki QR kodunu tarıyoruz. 1. Ülke seçin (DE) -> Site seçin (DAH1) -> 2. Poşetleri seçin -> 3. Bir senaryo seçin (Hasarlı) -> 3a. Sorunu açıklayın (Her poşeti taramadan önce doğru sorunu seçmelisiniz) -> 4. Poşetinizi Avery tarayıcı ile tarayın
+Bu işlem için QR kodlarını taramak üzere bir Avery tarayıcıya ihtiyacımız var. Öncelikle hasarlı poşetleri taramaya başlamak için bu bağlantıdaki QR kodunu tarıyoruz. 
+-> 1. Ülke seçin (DE) -> Site seçin (DAH1) 
+-> 2. Poşetleri seçin 
+-> 3. Bir senaryo seçin (Hasarlı) 
+-> 3a. Sorunu açıklayın (Her poşeti taramadan önce doğru sorunu seçmelisiniz) 
+-> 4. Poşetinizi Avery tarayıcı ile tarayın
+[GÖRSEL: exclamation.jpg, 150x150, sol]
+Hasarlı olup olmadıklarına nasıl karar verilir?
+-> Fermuarlardan biri bozuksa,
+-> Üç QR kodundan ikisi bozuksa,
+-> Çanta çok kirliyse ve temizlenmesi mümkün değilse,
+-> İç veya dış hasarı varsa,
+-> Büyük bir yırtığı varsa,
+o zaman bunları Kırmızı Etiket Alanının yakınında bulunan hasarlı çantalar sepetine koyabiliriz.
+
+
