@@ -1,4 +1,4 @@
 [GÖRSEL: qualityguidespring.png, 600x500]
 
-[GÖRSEL: news.png, 90x90, sol]
+[GÖRSEL: news.png, 90x90, orta]
 7 Nisan'dan itibaren Amazon sistemlerindeki kod destegi (Tampermonkey dahil) kalkacak.
