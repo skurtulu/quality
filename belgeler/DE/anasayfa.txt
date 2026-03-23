@@ -2,4 +2,4 @@
 [GÖRSEL: news.png, 160x160, orta]
 * Ab dem 7. April wird die Unterstützung für Skripte (einschließlich Tampermonkey) auf Amazon-Systemen eingestellt.
 * Bei der Überprüfung verbleibender Pakete konnten wir diese, sofern sie den Status "Eingeführt" und "Gepuffert" hatten, bisher ohne Verstauen bereitstellen, wenn die Route noch an der Station war und bereits bereitgestellt wurde. Dies erfolgte durch Scannen mit der Funktion „Problem Solve Task“. 
-* Nun müssen wir die Pakete jedoch zuerst verstauen und sie dann bereitstellen. Durch diese Änderung müssen wir, anstatt für nicht übergroße Pakete eine neue Tasche zu öffnen, die Pakete manuell an die DAs übergeben und ihnen die Übernahme anweisen.
+* Nun müssen wir die Pakete jedoch zuerst verstauen und sie dann bereitstellen. Diese Änderung bedeutet, dass wir, anstatt für Pakete, die nicht übergroß sind, eine neue Tasche zu öffnen, die Pakete nun manuell an die DAs übergeben und sie anweisen müssen, sie anzunehmen.
