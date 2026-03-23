@@ -1,3 +1,5 @@
-[GÖRSEL: qualityguidespring.png, 600x300]
-[GÖRSEL: news.png, 30x30, sol]
+[GÖRSEL: qualityguidespring.png, 600x400]
+
+[GÖRSEL: news.png, 80x80, sol]
+
 7 Nisan'dan itibaren Amazon sistemlerindeki script destegi (Tampermonkey dahil) kalkacak.
