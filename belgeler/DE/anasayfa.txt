@@ -1,3 +1,5 @@
-[GÖRSEL: qualityguidespring.png, 600x300]
-[GÖRSEL: news.png, 30x30, sol]
+[GÖRSEL: qualityguidespring.png, 600x400]
+
+[GÖRSEL: news.png, 80x80, sol]
+
 Ab dem 7. April wird die Unterstützung für Skripte (einschließlich Tampermonkey) auf Amazon-Systemen eingestellt.
