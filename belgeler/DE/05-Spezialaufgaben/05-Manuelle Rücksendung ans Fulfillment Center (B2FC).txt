@@ -1,7 +1,7 @@
-Manuelle Rücksendung ans Fulfillment Center
+# MANUELLE RÜCKSENDUNG ANS FULLFILLMENT CENTER
 In einigen Sonderfällen müssen Pakete, selbst wenn sie nicht beschädigt oder vom Kunden storniert wurden, aufgrund von Kunden- oder Amazon Locker-bezogenen Gründen manuell ans Fulfillment Center zurückgesendet werden. In solchen Fällen scannen wir das Paket zunächst mit der Problemlösungs-Übersicht.
 Problemlösungs-Übersicht -> Fahrerproblem -> Manuelle Rücksendung ans Fulfillment Center -> Adresse nicht verfügbar -> Genehmigung des Managers einholen
-[GÖRSEL: manualreturn.png, 500x500, orta]
+[GÖRSEL: manualreturn.png, 600x600, orta]
 Nach Erhalt der Genehmigung des Managers gehen wir zum Problemlösungs-Bereich (PS), verstauen das Paket mit unserem TC und legen es in den entsprechenden RTFC-Container. 
 Verstauen -> Pakete verstauen
 [GÖRSEL: exclamation.jpg, 30x30, sol]
