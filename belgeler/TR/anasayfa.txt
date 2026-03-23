@@ -1,5 +1,5 @@
 [GÖRSEL: qualityguidespring.png, 600x300]
-[GÖRSEL: news.png, 120x120, orta]
+[GÖRSEL: news.png, 160x160, orta]
 * 7 Nisan'dan itibaren Amazon sistemlerindeki kod destegi (Tampermonkey dahil) kalkacak.
 * Daha önce, "Inducted" ve "Stow Buffered" durumundaki leftover paketleri Problem Solve-Task kullanarak tararken, paketin turu zaten hazırlanmış ve hala istasyonda ise, stowlamadan hazırlama işlemi yapabiliyorduk.
 * Yeni değişiklikle birlikte, önce stow, sonra hazırlama işlemi yapılmalıdır. Daha fazla yeni çanta açılmasını önlemek için, bundan böyle zaten hazırlanmış artan paketleri (büyük boyutlu olanlar hariç) şöförlere teslim etmeli ve paketi üzerlerine almalarını istemeliyiz.
