@@ -1,0 +1,10 @@
+Manuel Paket Iadesi
+Bazı özel durumlarda, bazı paketler hasar görmemiş veya müşteri tarafından iptal edilmemiş olsa bile, müşteri veya dolapla ilgili nedenlerden dolayı manuel olarak Dağıtım Merkezine iade edilmesi gerekebilir. Bu gibi durumlarda, öncelikle paketi Sorun Çözme - Genel Bakış ile taramalıyız.
+Sorun Çözme - Genel Bakış -> Sürücü Sorunu -> Dağıtım Merkezine manuel olarak iade et -> Adres mevcut değil -> Yönetici onayı al
+[GÖRSEL: manualreturn.png, 500x500, orta]
+Yönetici onayını aldıktan sonra, Sorun Çözme (PS) kafesine gidebilir, paketi TC'mizle istifleyebilir ve ilgili RTFC konteynerine yerleştirebiliriz.
+İstifle -> Paketleri istifle
+[GÖRSEL: exclamation.jpg, 30x30, sol]
+Yönetici onayını almadan önce paketi istiflemeye çalışırsak, TC'niz sizi RTFC yerine önceki istifleme konumuna taramaya yönlendirecektir.
+[GÖRSEL: exclamation.jpg, 30x30, sol]
+Birden fazla paketiniz varsa, bunları tek tek taramanız ve her paket için bu işlemi tekrarlamanız gerekir. Cube Out rezervasyonunda olduğu gibi hepsini birden tarayamazsınız.
