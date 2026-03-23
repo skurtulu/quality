@@ -1,4 +1,4 @@
 [GÖRSEL: qualityguidespring.png, 600x500]
 
 [GÖRSEL: news.png, 90x90, orta]
-Starting April 7th, scripting support (including Tampermonkey) will be discontinued on Amazon systems.
+*Starting April 7th, scripting support (including Tampermonkey) will be discontinued on Amazon systems.
