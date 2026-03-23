@@ -1,7 +1,7 @@
 # MANUALLY RETURN TO FC
 In some special cases, even if some packets are not damaged or canceled by the customer, they may need to be manually returned to the Fulfillment Center due to reasons related to the customer or amazon locker. In such cases, we should first scan the packet with Problem Solve - Overview.
 Problem Solve-Overview -> Driver Problem -> Manually return to FC -> Address unavailable -> Get manager approval
-[GÖRSEL: manualreturn.png, 500x500, orta]
+[GÖRSEL: manualreturn.png, 600x600, orta]
 After receiving manager approval, we can go to the Problem Solve (PS) cage, stow the package with our TC, and place it in the relevant RTFC container.
 Stow -> Stow packages
 [GÖRSEL: exclamation.jpg, 30x30, sol]
