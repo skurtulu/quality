@@ -1,4 +1,4 @@
-Manually Return to FC
+# MANUALLY RETURN TO FC
 In some special cases, even if some packets are not damaged or canceled by the customer, they may need to be manually returned to the Fulfillment Center due to reasons related to the customer or amazon locker. In such cases, we should first scan the packet with Problem Solve - Overview.
 Problem Solve-Overview -> Driver Problem -> Manually return to FC -> Address unavailable -> Get manager approval
 [GÖRSEL: manualreturn.png, 500x500, orta]
