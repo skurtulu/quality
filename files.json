@@ -32,6 +32,7 @@
         "DE/05-Spezialaufgaben/02-Schadensmeldung für Taschen.txt",
         "DE/05-Spezialaufgaben/03-Die ersten drei Tage der Einarbeitung neuer Mitarbeiter.txt",
         "DE/05-Spezialaufgaben/04-Erstellung einer wöchentlichen Quip Qualitätscheckliste.txt",
+        "DE/05-Spezialaufgaben/05-Manuelle Rücksendung ans Fulfillment Center (B2FC).txt",
         "DE/06-Atlas/Atlas.txt",
         "DE/07-Priorität der Aufgaben/Priorität der Aufgaben.txt",
         "DE/08-Tipps/Nicht zwingend erforderlich, aber nette Gesten.txt",
@@ -68,6 +69,7 @@
         "EN/05-Special Tasks/02-Reporting Damage Bags.txt",
         "EN/05-Special Tasks/03-First Three Days of New Hires Training.txt",
         "EN/05-Special Tasks/04-Making a Weekly Quip Quality Checklist.txt",
+        "EN/05-Special Tasks/05-Manually Return to FC (B2FC).txt",
         "EN/06-Atlas/Atlas.txt",
         "EN/07-Priority of tasks/Priority of tasks.txt",
         "EN/08-TIPS/Not mandatory but nice MOVES.txt",
@@ -104,6 +106,7 @@
         "TR/05-Özel Görevler/02-Hasarlı çantaların bildirilmesi.txt",
         "TR/05-Özel Görevler/03-Yeni çalışanlar olduğunda ilk 3 günlük eğitim.txt",
         "TR/05-Özel Görevler/04-Haftalık Kaliteci Quip Listesi oluşturma.txt",
+        "TR/05-Özel Görevler/05-Manuel Paket Iadesi (B2FC).txt",
         "TR/06-Atlas/Atlas.txt",
         "TR/07-Görev Öncelik Sırası/Görevlerin önceliği.txt",
         "TR/08-İpuçları/Zorunlu olmayan ama güzel hareketler.txt",
@@ -112,6 +115,7 @@
         "resimler/logo8.png",
         "resimler/avatar8.png",
         "resimler/damagebags.jpg",
+        "resimler/manualreturn.png",
         "sozler.json"
     ]
 
