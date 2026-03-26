@@ -1,6 +1,6 @@
 [GÖRSEL: qualityguidespring.png, 600x300]
 [GÖRSEL: news.png, 160x160, orta]
-->Starting April 7th, scripting support (including Tampermonkey) will be discontinued on Amazon systems.
-->We are switching to Slack from Chime soon. If you don't have a Slack account yet, contact me please.
-->Previously, when scanning leftover packages with "Inducted" and "Stow Buffered" status using the Problem Solve-Task, if its route was already staged and still at the station, we could stage it without stowing. 
-->With the new change, stowing must come first, then staging. To prevent further new bag openings, from now on we should hand over those kind of packages (except oversizes) to the DAs and ask them to manually pick up the package.
+- Starting April 7th, scripting support (including Tampermonkey) will be discontinued on Amazon systems.
+- We are switching to Slack from Chime soon. If you don't have a Slack account yet, contact me please.
+- Previously, when scanning leftover packages with "Inducted" and "Stow Buffered" status using the Problem Solve-Task, if its route was already staged and still at the station, we could stage it without stowing. 
+- With the new change, stowing must come first, then staging. To prevent further new bag openings, from now on we should hand over those kind of packages (except oversizes) to the DAs and ask them to manually pick up the package.
