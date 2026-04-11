@@ -1,4 +1,4 @@
-# Gökkuşağı Tur Desteği
+# GÖKKUŞAĞI TUR DESTEĞİ
 Bazen çalışanlar, birbirine yakın iki yerden eşya toplamak yerine, uzak yerlerde dolaşarak "gökkuşağı turları" olarak adlandırdığımız durumlarla karşılaşırlar. Bu gibi durumlarda, çalışanları bilgilendirmek, onlara yardımcı olmak ve eşyalarını mümkün olduğunca toplamak, önemli ölçüde zaman kazandırır ve (eşyaları oldukça uzak yerlerde olduğunda) sinir krizi geçirmelerini önler. Örneğin, CA_A133 (A21, C26) 9 çantaya sahip.
 [GÖRSEL: nicemoves.jpg, 500x400, orta]
 Diyelim ki SA'nın 9 çantası var ve C26'dan 4 çanta aldıktan sonra A21'den bir çanta daha alması ve ardından 4 çanta daha almak için C26'ya geri dönmesi gerekiyor; biz önceden A21'e gidip o tek çantayı C26'ya getirebilir ve onları bilgilendirebiliriz. Peki bu turları nasıl tespit edebiliriz? 
