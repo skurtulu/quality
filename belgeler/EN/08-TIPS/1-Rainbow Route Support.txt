@@ -1,0 +1,7 @@
+Rainbow Route Support
+Sometimes employees encounter what we call "rainbow tours," where instead of collecting items from two close locations, they end up circling around distant locations. In such cases, informing and assisting employees, and collecting their belongings as much as possible, saves significant time and prevents them from having a nervous breakdown (when people's belongings are in quite far-off locations). For example, CA_A133 (A21, C26) has 9 bags.
+[GÖRSEL: nicemoves.jpg, 500x400, orta]
+Let's say SA has 9 bags and after collecting 4 bags from C26, needs to collect one more bag from A21 and then return to C26 to collect 4 more bags; we can go to A21 beforehand, bring that single bag to C26, and inform them. So how can we detect these tours? Outbound -> Pick -> Stage by Time (We will select the next wave) + Picklist Status (Not Assigned + In Progress)
+[GÖRSEL: rainbowroute.png, 500x300, orta]
+[GÖRSEL: rainbowroute2.png, 500x400, orta]
+This way, we can control the tours in the next wave in this manner and leave the bags or oversized boxes ready in the area where the pickers will arrive before they start their tour.
