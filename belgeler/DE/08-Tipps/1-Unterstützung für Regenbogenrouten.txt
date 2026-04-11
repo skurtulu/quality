@@ -1,4 +1,4 @@
-Unterstützung für Regenbogenrouten
+# Unterstützung für Regenbogenrouten
 Manchmal erleben Mitarbeiter sogenannte „Regenbogen-Touren“, bei denen sie, anstatt Gegenstände von zwei nahe beieinander liegenden Orten abzuholen, stattdessen weit entfernte Orte ansteuern. In solchen Fällen spart es viel Zeit und verhindert einen Nervenzusammenbruch (wenn sich die Sachen der Mitarbeiter an weit voneinander entfernten Orten befinden), indem man sie informiert, ihnen hilft und ihre Sachen so weit wie möglich einsammelt. Beispiel: Mitarbeiter CA_A133 (A21, C26) hat 9 Tasche.
 [GÖRSEL: nicemoves.jpg, 500x400, orta]
 Angenommen, ein Mitarbeiter hat 9 Tasche und muss, nachdem er 4 Tasche von C26 geholt hat, noch eine weitere Tasche von A21 holen und dann zu C26 zurückkehren, um 4 weitere Tasche zu holen. Wir können vorher zu A21 gehen, die fehlende Tasche zu C26 bringen und den Mitarbeiter informieren. Wie können wir diese Touren erkennen? 
