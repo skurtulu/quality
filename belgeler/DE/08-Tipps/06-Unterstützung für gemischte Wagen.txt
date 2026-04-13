@@ -1,5 +1,4 @@
 # UNTERSTÜTZUNG FÜR GEMISCHTE WAGEN
-[GÖRSEL: mixedcart1.jpg, 400x500, orta]
-
+[GÖRSEL: mixedcart1.jpg, 300x300, orta]
 Wenn Wagen mit vielen Artikeln vorliegen und ein einzelner Wagen nicht ausreicht, können wir einen leeren Wagen vom Bereitstellungsplatz holen, zum entsprechenden Gang gehen, die restlichen Artikel des Pickers einsammeln und in den leeren Wagen legen. (Alle Etiketten müssen gut sichtbar und leicht lesbar sein.) Anschließend informieren wir den Picker, dass wir einen zweiten Wagen vorbereiten, damit er seinen Wagen als voll markieren kann. Mit diesem zweiten Wagen gehen wir dann gemeinsam mit dem Picker zum Bereitstellungsplatz. Anstatt einen neuen leeren Wagen zu scannen, scannt der Picker den vorbereiteten Wagen mit den restlichen Artikeln und stellt ihn anschließend bereit. Das spart ihm viel Zeit.
-[GÖRSEL: mixedcart.png, 300x300, orta]
+[GÖRSEL: mixedcart.png, 500x400, orta]
