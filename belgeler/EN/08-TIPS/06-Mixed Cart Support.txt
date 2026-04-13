@@ -1,5 +1,5 @@
 # MIXED CART SUPPORT
-[GÖRSEL: mixedcart.jpg, 300x300, orta]
+[GÖRSEL: mixedcart1.jpg, 300x300, orta]
 
 When people have mixed cart picklists with so many items in it and when we think that 1 cart won't be enough for this much items; we can get an empty cart from staging location, go to the aisle that the picker has this picklist, and collect their remaining OVs and place them in this empty cart. (All package labels should be visible and easily scannable.) Then we can tell the picker that we prepare their second cart so they can mark that their cart is full. Then you can go with this second cart to the staging location along with the picker. Instead scanning a new empty cart; picker will scan the cart you prepared with their remaining packages, then they will scan the packages and stage the cart easily. This will save so much time for them.
 [GÖRSEL: mixedcart.png, 400x500, orta]
