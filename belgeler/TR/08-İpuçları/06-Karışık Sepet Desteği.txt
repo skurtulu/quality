@@ -2,4 +2,4 @@
 [GÖRSEL: mixedcart1.jpg, 300x300, orta]
 
 İnsanların çok fazla ürün içeren karışık sepet listeleri olduğunda ve tek bir sepetin bu kadar ürün için yeterli olmayacağını düşündüğümüzde; hazırlık alanından boş bir sepet alıp, sipariş listesinin bulunduğu koridora giderek kalan OV'lerini toplayıp bu boş sepete yerleştirebiliriz. (Tüm paket etiketleri görünür ve kolayca taranabilir olmalıdır.) Daha sonra sipariş toplayıcıya ikinci sepetini hazırladığımızı söyleyerek sepetinin dolu olduğunu işaretleyebilir. Ardından bu ikinci sepetle sipariş toplayıcıyla birlikte hazırlık alanına gidebilirsiniz. Yeni bir boş sepet taramak yerine, sipariş toplayıcı kalan paketleriyle hazırladığınız sepeti tarayacak, ardından paketleri tarayıp sepeti kolayca hazırlayacaktır. Bu, onlar için çok zaman kazandıracaktır.
-[GÖRSEL: mixedcart.png, 300x300, orta]
+[GÖRSEL: mixedcart.png, 400x500, orta]
