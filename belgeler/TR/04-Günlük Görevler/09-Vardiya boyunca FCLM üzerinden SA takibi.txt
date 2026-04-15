@@ -4,6 +4,7 @@
 https://fcmenu-dub-regionalized.corp.amazon.com/DAH1/laborTrackingKiosk
 SA'lar toplama ve istifleme süreçlerinde sürekli olarak TC'lerini kullandıkları için sisteme kayıtlıdırlar; bu nedenle, bu süreçlerdeyken onları herhangi bir pozisyona taramayız. Bu nedenle, bu iki sürecin dışında çalışan kişileri gerekli pozisyonlar için taramamız gerekir.
 Sabah toplantısı sırasında -> Mevcut tüm SA'ların rozetlerini 5S'e tarayın
+[GÖRSEL: tracking.png, 600x500, orta]
 Kaliteciler: Toplama ve Hazırlama / Sevkiyat Sorun Çözücü.(pick and stage/dispatch problem solver) Vardiyanın başında onları takip (scan) edebilirsiniz.
 Saha Sorumluları(yard marshalls): Çıkış Trafik Kontrolörü.(outbound traffic controller) Toplama ile başlarlar, toplama bittiğinde onları takip edebilirsiniz. Tüm rotalar ayrıldığında, boş arabaları hazırlık alanında düzenleyecekleri için onları tekrar 5S'e takip edebilirsiniz.
 LKW Master: Gelen Trafik Kontrolcüsü.(inbound traffic Controller) Kamyonla islem yapmaya gittiklerinde onları takip edebilirsiniz. İşleri bittiğinde ve toplama dışında başka bir görevleri olduğunda onları tekrar takip etmelisiniz.
