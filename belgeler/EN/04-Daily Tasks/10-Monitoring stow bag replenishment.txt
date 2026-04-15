@@ -1,6 +1,8 @@
 # MONITORING STOW BAG REPLENISHMENT
 [GÖRSEL: stowbagrep1.jpg, 300x300, orta]
 Only as a POC, you can make changes on the staffing board about stow bag replenishment. If you think some Clusters needs more people than others; you can replace SAs badges to plan it more effectively. 
+You should arrange the staffing board for stow bag replenishment as a POC before pick & stage completed. Some aisles could already be filled with empty bags so you may need less people to work on some clusters. For example; if a cluster haven't used that day by nightshift, let's say Cluster B, you can remove people's badges from Cluster B and add them in another cluster's plan. Same example applies when you took some people out of pick for stow bag replenishment when pick speed is too fast and those people could have completed one cluster's stow bag replenishment.
+[GÖRSEL: stowbagplan.jpg, 400x400, orta]
 After the pick-and-stage is complete, we need to personally check that the SAs are in the correct position for stow bag replenishment. Since we cannot digitally monitor the performance of the SAs during this process, we must constantly check all of them ourselves, moving around continuously.
 When all empty bags are physically placed in the racks, SAs can start marrying(scanning) the bags to the locations. SCC -> Sort -> Stow -> Stow Breakdown -> Missing(Fehlt) section must be 0 for all aisles.
 [GÖRSEL: stowbagrep2.jpg, 200x200, orta]
