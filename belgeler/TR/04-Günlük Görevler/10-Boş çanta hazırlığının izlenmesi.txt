@@ -1,6 +1,8 @@
 # BOŞ ÇANTA HAZIRLIĞININ IZLENMESI
 [GÖRSEL: stowbagrep1.jpg, 300x300, orta]
 Sadece POC iseniz, istif torbası yenilemesiyle(stow bag replenishment) ilgili personel panosunda değişiklikler yapabilirsiniz. Bazı kümelerin(cluster) diğerlerinden daha fazla personele ihtiyacı olduğunu düşünüyorsanız, daha etkili bir planlama için SA rozetlerini değiştirebilirsiniz.
+Toplama ve yerleştirme tamamlanmadan önce, istif torbası yenilemesi için personel planlamasını POC olarak düzenlemelisiniz. Bazı koridorlar zaten boş torbalarla dolu olabilir, bu nedenle bazı kümelerde çalışacak daha az kişiye ihtiyacınız olabilir. Örneğin; eğer bir küme o gün gece vardiyası tarafından kullanılmadıysa, diyelim ki B Kümesi, kişilerin rozetlerini B Kümesinden çıkarıp başka bir kümenin planına ekleyebilirsiniz. Aynı örnek, toplama hızı çok yüksek olduğunda ve bu kişiler bir kümenin istif torbası yenilemesini tamamlayabilecekken, istif torbası yenilemesi için bazı kişileri toplama işleminden çıkardığınızda da geçerlidir.
+[GÖRSEL: stowbagplan.jpg, 400x400, orta]
 Seçme ve yerleştirme işlemi tamamlandıktan sonra, SA'ların istif torbası yenilemesi için doğru konumda olup olmadığını şahsen kontrol etmemiz gerekiyor. Bu süreçte SA'ların performansını dijital olarak izleyemediğimiz için, sürekli hareket ederek hepsini kendimiz kontrol etmeliyiz.
 Tüm boş torbalar fiziksel olarak raflara yerleştirildikten sonra, SA'lar torbaları konumlara eşleştirmeye (tarama) başlayabilir. SCC -> Sırala (sort)-> İstif (stow)-> İstif Dağılımı (stow breakdown)-> Eksik (Fehlt) bölümü tüm koridorlar için 0 olmalıdır.
 [GÖRSEL: stowbagrep2.jpg, 200x200, orta]
