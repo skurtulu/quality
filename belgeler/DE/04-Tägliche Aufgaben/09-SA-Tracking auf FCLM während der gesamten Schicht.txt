@@ -4,6 +4,7 @@ Als Ansprechpartner (POC) müssen Sie die Ausweise der Sortiermitarbeiter (SAs) 
 https://fcmenu-dub-regionalized.corp.amazon.com/DAH1/laborTrackingKiosk
 Da die SAs ihre Dolphin-Geräte (TCs) während der Auswahls- und Einlagerungsprozesse bereits kontinuierlich nutzen, sind sie im System registriert. Daher scannen wir sie während dieser Prozesse keiner Position zu. Mitarbeiter, die außerhalb dieser beiden Prozesse arbeiten, müssen daher für die erforderlichen Positionen gescannt werden.
 Während der Morgenbesprechung: Scannen Sie alle Ausweise der anwesenden SAs gemäß 5S.
+[GÖRSEL: tracking.png, 600x500, orta]
 Qualitäten: Auswahl & Bereitstellung / Versand – Problemlösung. Sie können sie zu Schichtbeginn verfolgen.
 Hofeinweiser: Warenausgangskontrolle. Sie beginnen mit der Auswahl; sobald sie diese abgeschlossen haben, können Sie sie verfolgen. Sobald alle Routen abgefahren sind, können Sie die Mitarbeiter erneut im 5S-Bereich verfolgen, da sie leere Wagen im Bereitstellungsbereich ordnen.
 LKW-Master: Wareneingangskontrolleur. Sie können die Mitarbeiter verfolgen, sobald sie mit der LKW-Abfertigung beginnen. Sie müssen sie erneut verfolgen, sobald sie fertig sind und eine andere Aufgabe haben, außer im Auswahlbereich zu arbeiten.
