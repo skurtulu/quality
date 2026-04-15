@@ -1,5 +1,5 @@
 {
-    "version": "1.4.1",
+    "version": "1.2.1",
     "files": [
         "DE/01-Qualität in der Frühschicht/Stellen in der Frühschicht.txt",
         "DE/02-Abkürzungen/Abkürzungen.txt",
@@ -143,6 +143,7 @@
         "resimler/mixedcart.png",
         "resimler/tracking.png",
         "resimler/safekeeping.jpg",
+        "resimler/stowbagplan.jpg",
         "sozler.json"
     ]
 
