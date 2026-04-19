@@ -1,6 +1,6 @@
 [GÖRSEL: qualityguidespring.png, 600x300]
 [GÖRSEL: news.png, 160x160, orta]
-- Ab dem 13. Mai wird die Unterstützung für Skripte (einschließlich Tampermonkey) auf Amazon-Systemen eingestellt.
+- Eine neue Datei mit dem Titel „Lösungen für häufige Probleme“ wurde hinzugefügt. Schau sie dir an!
 - Wir wechseln demnächst von Chime zu Slack. Falls Sie noch kein Slack-Konto haben, kontaktieren Sie mich bitte.
 - Bei der Überprüfung verbleibender Pakete konnten wir diese, sofern sie den Status "Eingeführt" und "Stow Buffered" hatten, bisher ohne Verstauen bereitstellen, wenn die Route noch an der Station war und bereits bereitgestellt wurde. Dies erfolgte durch Scannen mit der Funktion „Problem Solve Task“. 
 - Nun müssen wir die Pakete jedoch zuerst verstauen und sie dann bereitstellen. Diese Änderung bedeutet, dass wir, anstatt für Pakete, die nicht übergroß sind, eine neue Tasche zu öffnen, die Pakete nun manuell an die DAs übergeben und sie anweisen müssen, sie anzunehmen.
