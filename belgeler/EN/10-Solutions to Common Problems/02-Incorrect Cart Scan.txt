@@ -1,3 +1,4 @@
 # INCORRECT CART SCAN
+[GÖRSEL: wrongcart(1).jpg, 300x300, orta]
 Sometimes pickers scan a cart at the beginning of their tour but mistakenly take another empty cart or; they go to washroom after they got a picklist and scanned a cart but take another cart with them when they return to pick. In those cases, we can click on the question mark at the top right corner of the screen and select the "can't find cart" option.
 It's important to be sure that pickers didn't start to collect their items, you can only mark a cart as missing when you are sure that it should be empty.
