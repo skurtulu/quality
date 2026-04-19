@@ -1,2 +1,3 @@
-# Kayıp Sepet
+# KAYIP SEPET
+[GÖRSEL: missingcart.jpg, 300x300, orta]
 Bazen dağıtım görevlileri (DA'lar) bize sorunlarla geliyor ve en yaygın sorunları kayıp sepetler oluyor. Bazen bazı dağıtım görevlileri farkında bile olmadan başkasının sepetini alıyor. Doğru sepeti tarıyorlar, ancak genellikle gerçek sepetlerinin yakınında duran başka bir sepeti alıyorlar; bir şeyle meşgul olduklarında. Bir dağıtım görevlisi size gelip sepetinin belirlenen bekleme alanında olmadığını söylediğinde, öncelikle komşu bekleme alanlarını kontrol etmelisiniz. Nasıl? PS-Overview ile onlardan bir paketi tarayarak ve durumunu kontrol ederek. Durum "Yolda" ise, bu rotanın numarasını ve dağıtım firmasının (DSP) adını not alabilir ve bu DSP ile iletişime geçip notlarınızı göstererek bu rotayı kontrol etmelerini isteyebilirsiniz. Yanlışlıkla alınan sepetleri tespit edip DSP'leri bilgilendirdikten sonra, DSP'ler geri kalanını halletmeli ve sepet değişimini yapmalıdır.
