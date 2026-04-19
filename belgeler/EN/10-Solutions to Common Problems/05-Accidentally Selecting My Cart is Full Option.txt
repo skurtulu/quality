@@ -1,0 +1,1 @@
+When pickers accidentally choose my cart is full option when their cart is not full yet; they may not know how to cancel this selection. It's actually pretty simple; they can choose the "Cancel (Stornieren)" option on their TC and they can continue to collect their items.

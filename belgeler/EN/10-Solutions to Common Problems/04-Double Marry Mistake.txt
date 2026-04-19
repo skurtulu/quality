@@ -1,0 +1,4 @@
+# Double Marry Mistake
+Sometimes pickers marry 2 different bags in one stow location. Although system usually only sees the last married bags in that location, sometimes we may see 2 open bags in one location on the stow system. To prevent confusions; we can follow this steps to scrub stow location;
+TC -> Stow -> Manage stow area -> Click on the question mark at the right corner on the screen -> Scrub location 
+After you scrubbed the location, you can marry your desired bag to the stow location. 
