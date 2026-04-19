@@ -1,3 +1,3 @@
-# Falscher Wagenscan
+# FALSCHER WAGENSCAN
 Manchmal scannen Picker zu Beginn ihrer Tour einen Wagen, nehmen aber versehentlich einen anderen, leeren Wagen mit. Oder sie gehen nach Erhalt der Auswahlliste und dem Scannen eines Wagens auf die Toilette, nehmen aber bei ihrer Rückkehr einen anderen Wagen mit. In diesen Fällen können Sie auf das Fragezeichen oben rechts auf dem Bildschirm klicken und die Option „Wagen nicht gefunden“ auswählen.
 Es ist wichtig sicherzustellen, dass die Picker noch nicht mit dem Einsammeln der Artikel begonnen haben. Sie können einen Wagen nur dann als fehlend markieren, wenn Sie sicher sind, dass er leer sein sollte.
