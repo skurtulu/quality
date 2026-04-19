@@ -1,0 +1,2 @@
+# Sepetim Dolu Seçeneğini Yanlışlıkla Seçme
+Ürün toplayıcıları, sepetleri henüz dolu olmadığı halde yanlışlıkla "Sepetim Dolu" seçeneğini seçtiklerinde, bu seçimi nasıl iptal edeceklerini bilemeyebilirler. Aslında oldukça basit; TC'lerinde "İptal (Stornieren)" seçeneğini seçerek ürünlerini toplamaya devam edebilirler.

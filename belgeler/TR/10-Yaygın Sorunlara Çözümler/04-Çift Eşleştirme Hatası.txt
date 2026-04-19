@@ -1,0 +1,4 @@
+# Çift Eşleştirme Hatası
+Bazen toplayıcılar aynı istifleme konumunda 2 farklı torbayı eşleştirir. Sistem genellikle o konumda yalnızca en son eşleştirilen torbaları görse de, bazen istifleme sisteminde aynı konumda 2 açık torba görebiliriz. Karışıklığı önlemek için, istifleme konumunu temizlemek için şu adımları izleyebilirsiniz:
+TC -> İstifleme -> İstifleme alanını yönet -> Ekranın sağ köşesindeki soru işaretine tıklayın -> Konumu temizle
+Konumu temizledikten sonra, istediğiniz torbayı istifleme konumuna eşleştirebilirsiniz.

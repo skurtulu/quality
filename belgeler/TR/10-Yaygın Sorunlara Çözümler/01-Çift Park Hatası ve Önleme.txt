@@ -1,0 +1,2 @@
+# Çift Park Hatası ve Önleme
+Deneyimlerime göre, yeni işe alınanların en sık yaptığı hata çift tur park etmedir. Bunu önlemek için, doğru ve yanlış park etmeyi açıklayan bir materyal tasarladım. Bu materyali, bu hatayı yapan kişileri yeniden eğitmek için kullanabilir veya belki de bu materyali yazdırıp iyi görünen bir yere yerleştirebilirsiniz, böylece insanlar park etme konusunda şüpheye düştüklerinde bu materyale hızlıca göz atıp doğru park etme yerini hatırlayabilirler.
