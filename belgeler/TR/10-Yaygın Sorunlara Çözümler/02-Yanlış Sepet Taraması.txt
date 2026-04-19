@@ -1,5 +1,5 @@
 # YANLIŞ SEPET TARAMASI
-[GÖRSEL: wrongcart(1).jpg, 300x300, orta]
+[GÖRSEL: wrongcart1.jpg, 300x300, orta]
 Bazen toplayıcılar turlarının başında bir sepeti tararlar ancak yanlışlıkla başka bir boş sepeti alırlar veya; toplama listesini aldıktan sonra tuvalete giderler ve bir sepeti tararlar ancak toplamaya geri döndüklerinde başka bir sepeti yanlarında götürürler. Bu durumlarda, ekranın sağ üst köşesindeki soru işaretine tıklayabilir ve "sepet bulunamadı" seçeneğini seçebilirsiniz.
 [GÖRSEL: exclamation.jpg, 30x30, sol]
 Toplayıcıların ürünlerini toplamaya başlamadığından emin olmak önemlidir; bir sepeti yalnızca boş olması gerektiğinden emin olduğunuzda kayıp olarak işaretleyebilirsiniz.
