@@ -1,0 +1,2 @@
+# Versehentliche Auswahl der Option „Mein Warenkorb ist voll“
+Wenn Picker versehentlich die Option „Mein Warenkorb ist voll“ auswählen, obwohl ihr Warenkorb noch nicht voll ist, wissen sie möglicherweise nicht, wie sie diese Auswahl rückgängig machen können. Es ist ganz einfach: Sie können die Option „Stornieren“ an ihrem TC auswählen und ihre Artikel weiter einsammeln. Lösungen für häufige Probleme

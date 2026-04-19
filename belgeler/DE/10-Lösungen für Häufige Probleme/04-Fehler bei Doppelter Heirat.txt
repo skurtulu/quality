@@ -1,0 +1,3 @@
+# Fehler bei doppelter Heirat
+Manchmal heiraten SAs zwei verschiedene Tasche an einem Lagerplatz. Obwohl das System normalerweise nur die zuletzt verheirateten Tasche an diesem Lagerplatz anzeigt, können im Einlagerungssystem manchmal zwei offene Tasche an einem Lagerplatz angezeigt werden. Um Verwechslungen zu vermeiden, können Sie den Lagerplatz wie folgt bereinigen:
+TC -> Einlagern -> Lagerbereich verwalten -> Klicken Sie auf das Fragezeichen in der rechten Ecke des Bildschirms -> Lagerplatz bereinigen. Nachdem Sie den Lagerplatz bereinigt haben, können Sie die gewünschte Tasche an diesem Lagerplatz heiraten.
