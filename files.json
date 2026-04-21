@@ -1,5 +1,5 @@
 {
-    "version": "1.1.9",
+    "version": "1.2.9",
     "files": [
         "DE/01-Qualität in der Frühschicht/Stellen in der Frühschicht.txt",
         "DE/02-Abkürzungen/Abkürzungen.txt",
@@ -91,7 +91,7 @@
         "EN/08-TIPS/06-Mixed Cart Support.txt",
         "EN/08-TIPS/Not mandatory but nice MOVES.txt",
         "EN/09-Links/Links.txt",
-        "EN/10-Solutions to Common Problems/01-Doublestage Prevention.txt",
+        "EN/10-Solutions to Common Problems/01-Doublestage and Prevention.txt",
         "EN/10-Solutions to Common Problems/02-Incorrect Cart Scan.txt",
         "EN/10-Solutions to Common Problems/03-Missing Cart.txt",
         "EN/10-Solutions to Common Problems/04-Double Marry Mistake.txt",
