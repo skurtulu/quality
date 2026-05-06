@@ -13,5 +13,6 @@ Vardiyamın başında, herhangi bir sorun ortaya çıkmadan önce tespit etmek i
 [GÖRSEL: leftovers2.jpg, 300x300, orta]
 [GÖRSEL: exclamation.jpg, 30x30, sol]
 Artık bir çanta bulduğumuzda, neden artık olduğunu belirlemek için SCC -> Paket Özeti (package summary) -> Arama'yı (search) kullanarak geçmişini kontrol etmemiz gerekiyor. Ayrıca, torbanın rota kodunun toplama listesinde yer alıp almadığını da kontrol etmeliyiz. Eğer yer alıyorsa, sorun toplayıcı hatasından kaynaklanıyordur; aksi takdirde, gece vardiyasında çalışan birinin torbayı silmesi ve sistemin onu toplama listesinden çıkarması nedeniyledir.
-
 [GÖRSEL: leftovers3.jpg, 500x300, orta]
+[GÖRSEL: exclamation.jpg, 30x30, sol]
+Paketin durumu "Yolda" (IN TRANSIT) olduğunda; pakete yeni bir durum atamadan önce, TC ekranımızdaki paket kimliğini kontrol etmeli ve bu kimliği SLAM etiketi üzerindeki kimlikle karşılaştırmalıyız. Zira kimlikler eşleşmiyorsa, söz konusu paket bir "çift paket" (double package) olabilir. Bu paketleri sisteme kaydettiğimizde, aynı zamanda DA'nın elinde bulunan diğer paketi de sisteme kaydetmiş oluruz.
