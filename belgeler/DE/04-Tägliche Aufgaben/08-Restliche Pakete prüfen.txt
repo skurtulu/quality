@@ -13,3 +13,5 @@ Zu Beginn meiner Schicht überfliege ich schnell alle Gänge, um Probleme frühz
 [GÖRSEL: exclamation.jpg, 30x30, sol]
 Wenn wir einen übrig gebliebenen Tasche finden, müssen wir dessen Verlauf über SCC -> Paketübersicht -> Suche überprüfen, um den Grund dafür zu ermitteln. Wir sollten auch den Routencode des Taschen überprüfen, um festzustellen, ob er in der Auswahlliste enthalten ist. Falls ja, liegt das Problem an einem Fehler des Auswahlers; andernfalls hat jemand in der Nachtschicht den Beutel gereinigt, wodurch das System ihn aus der Auswahlliste entfernt hat.
 [GÖRSEL: leftovers3.jpg, 500x300, orta]
+[GÖRSEL: exclamation.jpg, 30x30, sol]
+Wenn der Status des Pakets „IN TRANSIT“ lautet, sollten wir die Paket-ID auf dem Bildschirm unseres TC überprüfen und mit der ID auf dem Slam-Label abgleichen, bevor wir dem Paket einen neuen Status zuweisen. Denn stimmen die IDs nicht überein, könnte es sich um ein Doppelpaket handeln. Würden wir diese Pakete buchen, würden wir damit gleichzeitig auch das andere Paket buchen, das sich beim DA befindet.
