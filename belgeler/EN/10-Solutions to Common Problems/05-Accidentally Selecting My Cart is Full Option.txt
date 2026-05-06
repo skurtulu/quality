@@ -1,4 +1,4 @@
 # Accidentally Selecting My Cart is Full Option
 When pickers accidentally choose my cart is full option when their cart is not full yet; they may not know how to cancel this selection. It's actually pretty simple; they can choose the "Cancel (Stornieren)" option on their TC and they can continue to collect their items.
-
+[GÖRSEL: exclamation.jpg, 30x30, sol]
 If they stage their cart after they accidentally selected "my cart is full" option on their TC; there is no going back from that. They have to take a new cart.
