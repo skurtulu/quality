@@ -14,5 +14,5 @@ At the start of my shift, I quickly visually scan each aisle to identify any pro
 [GÖRSEL: exclamation.jpg, 30x30, sol]
 When we find a leftover bag, we need to check its history using SCC -> Package Summary -> Search to determine why it's leftover. We should also check the bag's route code to see if it's included in the picklist. If it is, the problem is due to a picker error; otherwise, it's because someone on the night shift scrubbed the bag, causing the system to remove it from the picklist.
 [GÖRSEL: leftovers3.jpg, 500x300, orta]
-
-
+[GÖRSEL: exclamation.jpg, 30x30, sol]
+When the status of the package is IN TRANSIT; we should check the ID of the package on our TC's screen and compare it with the ID on the slam label before giving the package another status. Because it could be a double package if the IDs don't match. When we book these packages we would be also booking the other package which the DA has.
