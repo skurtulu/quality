@@ -1,4 +1,20 @@
-[GÖRSEL: qualityguidespring.png, 600x300]
-[GÖRSEL: news.png, 160x160, orta]
-- Eine neue Datei mit dem Titel „Lösungen für häufige Probleme“ wurde hinzugefügt. Schau sie dir an!
-- Wir wechseln demnächst von Chime zu Slack. Falls Sie noch kein Slack-Konto haben, kontaktieren Sie mich bitte.
+[GÖRSEL: qualityguidespring.png, 600x300, orta]
+
+# 👋 Willkommen beim Quality Guide!
+
+* Deine zentrale Anlaufstelle für Qualitätsstandards bei der Zustellung am DAH1.
+
+# 📢 Neuigkeiten
+
+- ✅ Neue Datei „Lösungen für häufige Probleme" wurde hinzugefügt. Schau mal rein!
+- 💬 Wir wechseln bald von Chime zu Slack. Falls du noch kein Slack-Konto hast, melde dich bitte bei mir.
+
+# 🚀 Schnellzugriff
+
+* 📦 Nutze das Menü links, um Themen nach Kategorie zu durchsuchen.
+* 🔍 Verwende die Suchleiste, um jedes Thema sofort zu finden.
+* 🌍 Wechsle die Sprache mit den Flaggen oben rechts.
+
+# 💡 Tipp des Tages
+
+- Qualität beginnt mit Vorbereitung — prüfe immer deine Route vor dem Dispatch!
