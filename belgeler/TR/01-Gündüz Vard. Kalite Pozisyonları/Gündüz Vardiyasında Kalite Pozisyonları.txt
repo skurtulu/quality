@@ -1,7 +1,7 @@
 # GÜNDÜZ VARDIYASINDA KALITE POZISYONLARI
 
--POC
+👤 POC
 
--Yard Quality
+👤 Yard Quality
 
--Kaptanlar (A;B;C)
+👥 Kaptanlar (A;B;C)
