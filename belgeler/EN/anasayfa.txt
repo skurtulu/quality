@@ -1,4 +1,21 @@
-[GÖRSEL: qualityguidespring.png, 600x300]
-[GÖRSEL: news.png, 160x160, orta]
-- New file "Solutions to common problems" has added. Check it out!
-- We are switching to Slack from Chime soon. If you don't have a Slack account yet, contact me please.
+[GÖRSEL: qualityguidespring.png, 600x300, orta]
+
+# 👋 Welcome to Quality Guide!
+
+* Your one-stop resource for delivery quality standards at DAH1.
+
+[GÖRSEL: news.png, 60x60]
+# 📢 What's New
+
+- ✅ New file "Solutions to common problems" has been added. Check it out!
+- 💬 We are switching to Slack from Chime soon. If you don't have a Slack account yet, contact me please.
+
+# 🚀 Quick Access
+
+* 📦 Use the menu on the left to browse topics by category.
+* 🔍 Use the search bar to find any topic instantly.
+* 🌍 Switch language with the flags in the top-right corner.
+
+# 💡 Tip of the Day
+
+- Quality starts with preparation — always check your route before dispatch!
