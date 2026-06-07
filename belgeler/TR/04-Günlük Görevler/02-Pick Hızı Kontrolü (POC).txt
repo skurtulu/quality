@@ -1,10 +1,10 @@
-# PICK HIZI KONTROLÜ (POC)
+# PICK HIZI KONTROLÜ (POC) 📈
 Pick Hızı Kontrolü (POC)
 [GÖRSEL: monitoringpick2.jpg, 500x200, orta]
 Pick süreci çok hızlı veya çok yavaş olduğunda, Pick sürecinden personel çıkarmanız/eklemeniz gerekir.
-Hesaplama nasıl yapılır:
+🧮 Hesaplama nasıl yapılır:
 [GÖRSEL: pickspeed.jpg, 100x50, orta]
--SCC'den aktif Picker sayısını kontrol edin. SCC -> Çalışan (Assosiate) -> Pick
+- 💻 SCC'den aktif Picker sayısını kontrol edin. SCC -> Çalışan (Assosiate) -> Pick
 [GÖRSEL: associate.jpg, 400x200, orta]
 -SCC'den ortalama "rota" süresini kontrol edin. SCC -> Outbound -> Pick -> Average Duration (Route/Picklist)
 [GÖRSEL: pickspeed2.jpg, 500x200, orta]
@@ -14,4 +14,4 @@ Aynı hesaplama, çok fazla kişi olduğunda ve pick çok hızlı olduğunda da 
 [GÖRSEL: exclamation.jpg, 30x30, sol] 
 Pickten kişileri çıkarırken; MCO personeli önceliğiniz olmalı, ardından yaş ve kıdem; ancak her zaman aynı kişileri seçmemelisiniz.
 [GÖRSEL: exclamation.jpg, 30x30, sol]
-İstif poşeti yenilemesi için toplamadan hangi kişileri çıkaracağınıza karar verirken, adil olmak için, o sabah istifleme yapan ve en iyi performansını sergileyen MCO çalışanlarını tercih ederim. SCC -> Çalışan (Associate) -> İstifleme (Stow)-> Döngü 1 (Cycle 1)-> Paketleri siralamaya 2 kez tıklayın (Pakete ges.) -> MCO personelini görmek için aşağı inin
+İstif poşeti yenilemesi için toplamadan hangi kişileri çıkaracağınıza karar verirken, adil olmak için, o sabah istifleme yapan ve en iyi performansını sergileyen MCO çalışanlarını tercih ederim. 💻 SCC -> Çalışan (Associate) -> İstifleme (Stow)-> Döngü 1 (Cycle 1)-> Paketleri siralamaya 2 kez tıklayın (Pakete ges.) -> MCO personelini görmek için aşağı inin
