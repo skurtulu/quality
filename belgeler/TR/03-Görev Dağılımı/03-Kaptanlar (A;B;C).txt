@@ -1,19 +1,19 @@
 # KAPTANLAR (A;B;C)
 [GÖRSEL: captain.jpg, 300x200, orta]
 Kaptanlar, POC ve Yard Kalitesi'nin sorumlulukları kapsamı dışında kalan atölye içi kalite görevlerini yerine getirmekten sorumlu kalite ekibi üyeleridir.
-*Kaptan Görevleri
-- Müşteriler tarafından Toplama ve Hazırlama süreci öncesinde ve sırasında iptal edilen paketleri bulma
-- Bant tabancasıyla hızlı onarım
-- Çift park edilen işlemleri yönetme
-- Eksik toplama işlemlerini yönetme
-- Herhangi bir süreçte (yard süreçleri hariç) hata yapan kişileri bulma ve yeniden eğitme
-- Artık paketleri kontrol etme
-- Eksik olanlar için yeni konum QR kodları oluşturma
-- Performans listesi oluşturma
-- Müzik çalma
-- Yanlış istiflenmiş ürünler içeren sepetleri bulma, sorumlu kişilere geri bildirim verme ve doğru yöntemi öğrenmelerini sağlama
-- Hasarlı çantaları raporlama
-- Toplama sırasında dökülmeleri temizleme ve etkilenen alanı güvenli hale getirme
-- Haftalık 3 Dragonfly raporunun da tamamlandığından emin olmak.
+*Kaptan Görevleri 🎯
+✅ Müşteriler tarafından Toplama ve Hazırlama süreci öncesinde ve sırasında iptal edilen paketleri bulma
+✅ Bant tabancasıyla hızlı onarım
+✅ Çift park edilen işlemleri yönetme
+✅ Eksik toplama işlemlerini yönetme
+✅ Herhangi bir süreçte (yard süreçleri hariç) hata yapan kişileri bulma ve yeniden eğitme
+✅ Artık paketleri kontrol etme
+✅ Eksik olanlar için yeni konum QR kodları oluşturma
+✅ Performans listesi oluşturma
+✅ Müzik çalma
+✅ Yanlış istiflenmiş ürünler içeren sepetleri bulma, sorumlu kişilere geri bildirim verme ve doğru yöntemi öğrenmelerini sağlama
+✅ Hasarlı çantaları raporlama
+✅ Toplama sırasında dökülmeleri temizleme ve etkilenen alanı güvenli hale getirme
+✅ Haftalık 3 Dragonfly raporunun da vaktinde tamamlandığından emin olmak.
 [GÖRSEL: dragonfly.jpg, 300x200, orta]
 
