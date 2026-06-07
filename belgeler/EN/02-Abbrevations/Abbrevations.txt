@@ -1,14 +1,14 @@
 # ABBREVATIONS
-SCC -> Station Command Center
-SA -> Sortation Associate
-DA -> Deliver Associate
-NH -> New Hire
-TC -> Zebra Scanner
-PS -> Problem Solve
-DSP -> Delivery Service Partner
-OV -> Oversize Package
-PNOV -> Parcels Not on Van 
-POC -> Point of Contact
+🌐 SCC -> Station Command Center
+👤 SA -> Sortation Associate
+👤 DA -> Deliver Associate
+👤 NH -> New Hire
+📱 TC -> Zebra Scanner
+🛠️ PS -> Problem Solve
+🚚 DSP -> Delivery Service Partner
+📦 OV -> Oversize Package
+📦 PNOV -> Parcels Not on Van 
+👤 POC -> Point of Contact
 
 
 
