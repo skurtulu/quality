@@ -2,14 +2,14 @@
 [GÖRSEL: yardqual.jpg, 300x200, orta]
 Yard Quality is the person who handles issues related to packages coming from Yard, handles repack matters, oversees staging locations, and gives feedback to supervisors about the departure process.
 
-*Yard Quality Tasks
+*Yard Quality Tasks 🎯
 
-- Repack, handling damage
-- Handling HAZMAT
-- Cube out & Driver rejected
-- Reporting disposed&B2FC parcels on Quip
-- Checking not departed routes after each wave
-- Checking and reporting wrongly parked carts left by DAs on Quip
--Refilling cardboard racks at the repack station
+✅ Repack, handling damage
+✅ Handling HAZMAT
+✅ Cube out & Driver rejected
+✅ Reporting disposed&B2FC parcels on Quip
+✅ Checking not departed routes after each wave
+✅ Checking and reporting wrongly parked carts left by DAs on Quip
+✅ Refilling cardboard racks at the repack station
 
 [GÖRSEL: repackyard.jpg, 300x200, orta]
