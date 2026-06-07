@@ -1,5 +1,5 @@
-# CREATING NEW LOCATION QR CODES FOR MISSING ONES
+# CREATING NEW LOCATION QR CODES FOR MISSING ONES 🧚
 [GÖRSEL: missingqr.jpg, 300x300, orta]
-Connect your Zebra 620 printer to your computer using the USB cable that printer has -> Open the Excel spreadsheet named SzPrinter -> Enter the missing QR codes into the spreadsheet -> Click on Generate Labels -> Select 300 dpi -> In your computer's search bar, type "printers and scanners" -> Click on ZDesigner ZD620-300dpi ZPL -> Printers properties -> Driver settings -> Settings -> Click on the three dots next to Send file and select the first option, the generated QR code file -> Click Send
+🖨️ Connect your Zebra 620 printer to your computer using the USB cable that printer has -> Open the Excel spreadsheet named SzPrinter -> Enter the missing QR codes into the spreadsheet -> Click on Generate Labels -> Select 300 dpi -> In your computer's search bar, type "printers and scanners" -> Click on ZDesigner ZD620-300dpi ZPL -> Printers properties -> Driver settings -> Settings -> Click on the three dots next to Send file and select the first option, the generated QR code file -> Click Send
 [GÖRSEL: missingqr2.jpg, 300x300, orta]
 [GÖRSEL: qrcodeprint.jpg, 500x400, orta]
