@@ -1,18 +1,18 @@
 # CAPTAINS (A;B;C)
 [GÖRSEL: captain.jpg, 300x200, orta]
 Captains sind Mitglieder des Qualitätsteams, die für Aufgaben in der Produktion zuständig sind, die nicht in den Zuständigkeitsbereich von POC und Yard Quality fallen.
-*Captain-Aufgaben
-- Pakete finden, die von Kunden vor und während des Auswahls- und Bereitstellungsprozesses storniert wurden
-- Schnelle Korrekturen mit Klebeband
-- Doppelte Bereitstellungsschritte bearbeiten
-- Fehlende Auswahlsartikel bearbeiten
-- Mitarbeiter, die Fehler in allen Prozessen (außer Yard-Prozessen) machen, finden und nachschulen
-- Restbestände prüfen
-- Neue Standort-QR-Codes für fehlende Artikel erstellen
-- Leistungsliste erstellen
-- Musik abspielen
-- Wagen mit falsch gestapelten Artikeln finden, den Verantwortlichen Feedback geben und sicherstellen, dass sie die korrekte Vorgehensweise gelernt haben
-- Beschädigte Taschen melden
-- Verschüttetes während der Auswahl reinigen und den betroffenen Bereich sichern
-- Sicherstellen, dass alle 3 wöchentlichen Dragonfly-Berichte fertiggestellt werden.
+*Captain-Aufgaben 🎯
+✅ Pakete finden, die von Kunden vor und während des Auswahls- und Bereitstellungsprozesses storniert wurden
+✅ Schnelle Korrekturen mit Klebeband
+✅ Doppelte Bereitstellungsschritte bearbeiten
+✅ Fehlende Auswahlsartikel bearbeiten
+✅ Mitarbeiter, die Fehler in allen Prozessen (außer Yard-Prozessen) machen, finden und nachschulen
+✅ Restbestände prüfen
+✅ Neue Standort-QR-Codes für fehlende Artikel erstellen
+✅ Leistungsliste erstellen
+✅ Musik abspielen
+✅ Wagen mit falsch gestapelten Artikeln finden, den Verantwortlichen Feedback geben und sicherstellen, dass sie die korrekte Vorgehensweise gelernt haben
+✅ Beschädigte Taschen melden
+✅ Verschüttetes während der Auswahl reinigen und den betroffenen Bereich sichern
+✅ Sicherstellen, dass alle 3 wöchentlichen Dragonfly-Berichte fertiggestellt werden.
 [GÖRSEL: dragonfly.jpg, 300x200, orta]
