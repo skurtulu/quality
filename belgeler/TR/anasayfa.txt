@@ -1,4 +1,20 @@
-[GÖRSEL: qualityguidespring.png, 600x300]
-[GÖRSEL: news.png, 160x160, orta]
-- "Yaygın sorunlara çözümler" adlı yeni bir dosya eklendi. Göz atın!
-- Yakında Chime'dan Slack'e geçiyoruz. Henüz bir Slack hesabınız yoksa lütfen benimle iletişime geçin.
+[GÖRSEL: qualityguidespring.png, 600x300, orta]
+
+# 👋 Quality Guide'a Hoş Geldin!
+
+* DAH1'deki teslimat kalite standartları için tek adresine hoş geldin.
+
+# 📢 Yenilikler
+
+- ✅ Yeni dosya "Sık karşılaşılan sorunların çözümleri" eklendi. Göz at!
+- 💬 Yakında Chime'dan Slack'e geçiyoruz. Henüz Slack hesabın yoksa lütfen benimle iletişime geç.
+
+# 🚀 Hızlı Erişim
+
+* 📦 Konulara kategoriye göre göz atmak için soldaki menüyü kullan.
+* 🔍 Herhangi bir konuyu anında bulmak için arama çubuğunu kullan.
+* 🌍 Sağ üstteki bayraklarla dili değiştir.
+
+# 💡 Günün İpucu
+
+- Kalite hazırlıkla başlar — dispatch öncesi rotanı mutlaka kontrol et!
