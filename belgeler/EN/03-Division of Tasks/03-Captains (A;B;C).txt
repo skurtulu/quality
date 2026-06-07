@@ -2,7 +2,7 @@
 [GÖRSEL: captain.jpg, 300x200, orta]
 Captains are quality team members responsible for performing shopfloor quality tasks that fall outside the scope of POC and Yard Quality's responsibilities.
 
-*Captain Tasks
+*Captain Tasks 🎯
 
 ✅ Finding packages that cancelled by customers before and during Pick & Stage process     
 ✅ Quick fix with tape gun
