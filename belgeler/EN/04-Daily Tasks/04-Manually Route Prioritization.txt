@@ -1,10 +1,10 @@
-# MANUALLY ROUTE PRIORITIZATION
+# MANUALLY ROUTE PRIORITIZATION 🪄
 When the routes jump from one wave to another before the previous one is completed, and if we don’t have enough time to complete that previous wave’s routes on time; we must prioritize the routes from the previous wave that are not assigned yet.
 [GÖRSEL: exclamation.jpg, 30x30, sol]
-Why routes jump? Because of overcrowding. If routes are mostly in the same aisles; the algorithm  assigns the other routes even their priority is not number 1, to prevent overcrowding in the aisles. 
-In those cases; we must go to SCC -> Outbound -> Pick -> Picklist Status -> Select In Progress and Not Assigned -> Select Stage by Time -> Select your target wave
+Why routes jump? 👨‍👩‍👧‍👦 Because of overcrowding. If routes are mostly in the same aisles; the algorithm  assigns the other routes even their priority is not number 1, to prevent overcrowding in the aisles. 
+In those cases; we must go to 💻 SCC -> Outbound -> Pick -> Picklist Status -> Select In Progress and Not Assigned -> Select Stage by Time -> Select your target wave
 [GÖRSEL: monitoringpick.jpg, 500x200, orta]
-Now you must prioritize the routes by checking their aisles and you must choose first not assigned ones. Go to endpoint symbol on the right at every picklist -> click on it -> prioritize (bevorzugen)-> choose number 1
+⚠️ Now you must prioritize the routes by checking their aisles and you must choose first not assigned ones. Go to endpoint symbol on the right at every picklist -> click on it -> prioritize (bevorzugen)-> choose number 1
 [GÖRSEL: prioritize2.jpg, 500x160, orta]
 [GÖRSEL: prioritize3.jpg, 300x300, orta]
 [GÖRSEL: exclamation.jpg, 30x30, sol]
