@@ -5,9 +5,9 @@ When I start my day, I do a PNOV check just like the night shift does, but only 
 In the Problem Solve-Task section of TC, you'll start seeing the "Aisles sweeping" notification when all the items in those aisles have been taken. Once you see this notification, you should go to the aisle and check if any items are left.
 When we find leftovers we should scan them with our TC (Problem Solve-Overview).
 -If the status STOWED, STOWED(without Route code), PICK UP FAILED; Driver Problem -> Pick Left Behind -> Continue Solving -> Cluster Transfer -> Solve more problems
--If the status IN TRANSIT, MARKED AS MISSING; Dolphin Device->Receive->Receive packages
+-If the status MARKED AS MISSING; Dolphin Device->Receive->Receive packages
 [GÖRSEL: intransit.jpg, 350x350, orta]
--If status STOW BUFFERED, INDUCTED; scan with Problem Solve-Task, it will ask you to stow it. After you stow it will be done. You can also give these parcels to DAs for manually pick up.
+-If status STOW BUFFERED, INDUCTED, IN TRANSIT; scan with Problem Solve-Task, it will ask you to stow it. After you stow it will be done. You can also give these parcels to DAs for manually pick up.
 [GÖRSEL: exclamation.jpg, 30x30, sol]
 At the start of my shift, I quickly visually scan each aisle to identify any problems before they arise. We also need to check the bags on the shelves that aren't being used for stow by NS, because sometimes they contain packages belonging to other bags.
 [GÖRSEL: leftovers2.jpg, 300x300, orta]
