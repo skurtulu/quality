@@ -5,9 +5,9 @@ Güne başlarken, gece vardiyasının yaptığı gibi, sadece büyük boyutlu pa
 TC'nin Sorun Çözme-Görev bölümünde, o koridorlardaki tüm ürünler alındığında "Koridor taraması"(aisles sweeping) bildirimini görmeye başlayacaksınız. Bu bildirimi gördüğünüzde, koridora gidip herhangi bir ürün kalıp kalmadığını kontrol etmelisiniz.
 Artık ürünler bulduğumuzda, bunları TC (Sorun Çözme-Genel Bakış(overview) ile taramalıyız.
 -Eğer durum STOWED, STOWED (Rota kodu olmadan), PICK UP FAILED ise; Sürücü Sorunu (Driver problem-> Geride Kalanı Al (Pick left behind)-> Çözmeye Devam Et (Continue solving) -> Küme Aktarımı (Cluster transfer)-> Daha Fazla Sorun Çöz (Solve more problems)
--Eğer durum IN TRANSIT, MARKED AS MISSING ise; Dolphin Cihazı -> Al (Receive)-> Paketleri Al (Receive packages)
+-Eğer durum MARKED AS MISSING ise; Dolphin Cihazı -> Al (Receive)-> Paketleri Al (Receive packages)
 [GÖRSEL: intransit.jpg, 350x350, orta]
--Eğer durum STOW BUFFERED, INDUCTED ise; Sorun Çözme-Görev ile tarayın, sizden onu depolamanızı(stow) isteyecektir. Depoladıktan sonra işlem tamamlanacaktır. Bu paketleri manuel olarak almak için DA'lara da verebilirsiniz.
+-Eğer durum STOW BUFFERED, INDUCTED, IN TRANSIT ise; Sorun Çözme-Görev ile tarayın, sizden onu depolamanızı(stow) isteyecektir. Depoladıktan sonra işlem tamamlanacaktır. Bu paketleri manuel olarak almak için DA'lara da verebilirsiniz.
 [GÖRSEL: exclamation.jpg, 30x30, sol]
 Vardiyamın başında, herhangi bir sorun ortaya çıkmadan önce tespit etmek için her koridoru hızlıca görsel olarak tararım. Ayrıca, NS tarafından depolama için kullanılmayan raflardaki çantaları da kontrol etmemiz gerekiyor, çünkü bazen diğer çantalara ait paketler içeriyorlar.
 [GÖRSEL: leftovers2.jpg, 300x300, orta]
