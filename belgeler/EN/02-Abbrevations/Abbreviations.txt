@@ -1,4 +1,4 @@
-# ABBREVATIONS
+# ABBREVIATIONS
 🌐 SCC -> Station Command Center
 👤 SA -> Sortation Associate
 👤 DA -> Deliver Associate
