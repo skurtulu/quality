@@ -1,5 +1,5 @@
 {
-    "version": "1.3.11",
+    "version": "1.2.4",
     "files": [
         "DE/01-Qualität in der Frühschicht/Stellen in der Frühschicht.txt",
         "DE/02-Abkürzungen/Abkürzungen.txt",
@@ -50,7 +50,7 @@
         "DE/10-Lösungen für Häufige Probleme/05-Versehentliche Auswahl der Option „Mein Warenkorb ist voll“.txt",
         "DE/anasayfa.txt",
         "EN/01-Quality Positions of Early Shift/Positions.txt",
-        "EN/02-Abbrevations/Abbrevations.txt",
+        "EN/02-Abbrevations/Abbreviations.txt",
         "EN/03-Division of Tasks/01-POC.txt",
         "EN/03-Division of Tasks/02-Yard Quality.txt",
         "EN/03-Division of Tasks/03-Captains (A;B;C).txt",
